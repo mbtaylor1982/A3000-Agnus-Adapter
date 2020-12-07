@@ -8,7 +8,7 @@
 </settings>
 <grid distance="3.5" unitdist="mil" unit="mil" style="dots" multiple="1" display="yes" altdistance="1" altunitdist="mil" altunit="mil"/>
 <layers>
-<layer number="1" name="Top" color="4" fill="1" visible="no" active="yes"/>
+<layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="2" name="VCC" color="16" fill="1" visible="no" active="no"/>
 <layer number="3" name="Route3" color="17" fill="1" visible="no" active="no"/>
 <layer number="4" name="Route4" color="18" fill="1" visible="no" active="no"/>
@@ -1439,7 +1439,7 @@ einem neuen Namen ab.</description>
 <attribute name="NAME" x="3.302" y="54.483" size="1.778" layer="25" ratio="10"/>
 <attribute name="VALUE" x="42.672" y="20.574" size="1.778" layer="27" ratio="10" rot="R90"/>
 </element>
-<element name="IC2" library="Amiga" package="PLCC84_T" value="" x="35.052" y="78.232" smashed="yes">
+<element name="IC2" library="Amiga" package="PLCC84_T" value="A3000 Agnus Socket" x="35.052" y="78.232" smashed="yes">
 <attribute name="NAME" x="17.018" y="93.345" size="1.778" layer="25" ratio="10"/>
 <attribute name="VALUE" x="39.1795" y="95.377" size="1.27" layer="27" ratio="10"/>
 <attribute name="VALUE" x="29.972" y="75.692" size="1.778" layer="27" ratio="10"/>
@@ -1464,7 +1464,7 @@ einem neuen Namen ab.</description>
 <attribute name="VALUE" x="45.974" y="38.7043" size="1.27" layer="27" align="top-center"/>
 <attribute name="VOLTAGE_RATING" value="" x="45.974" y="40.386" size="1.778" layer="27" display="off"/>
 </element>
-<element name="C2" library="Capacitor" library_urn="urn:adsk.eagle:library:16290819" package="CAPAE830X1050N" package3d_urn="urn:adsk.eagle:package:16290889/1" value="" x="8.128" y="67.056" smashed="yes">
+<element name="C2" library="Capacitor" library_urn="urn:adsk.eagle:library:16290819" package="CAPAE830X1050N" package3d_urn="urn:adsk.eagle:package:16290889/1" value="100uF" x="8.128" y="67.056" smashed="yes">
 <attribute name="CATEGORY" value="Capacitor" x="8.128" y="67.056" size="1.778" layer="27" display="off"/>
 <attribute name="MANUFACTURER" value="" x="8.128" y="67.056" size="1.778" layer="27" display="off"/>
 <attribute name="MPN" value="" x="8.128" y="67.056" size="1.778" layer="27" display="off"/>
@@ -1479,7 +1479,7 @@ einem neuen Namen ab.</description>
 <attribute name="VALUE" x="8.128" y="60.421" size="1.27" layer="27" align="top-center"/>
 <attribute name="VOLTAGE_RATING" value="" x="8.128" y="67.056" size="1.778" layer="27" display="off"/>
 </element>
-<element name="JP1" library="pinhead" library_urn="urn:adsk.eagle:library:325" package="1X03" package3d_urn="urn:adsk.eagle:package:22458/2" value="" x="49.276" y="22.352" smashed="yes">
+<element name="JP1" library="pinhead" library_urn="urn:adsk.eagle:library:325" package="1X03" package3d_urn="urn:adsk.eagle:package:22458/2" value="RAS jumpers" x="49.276" y="22.352" smashed="yes">
 <attribute name="NAME" x="46.1518" y="24.9428" size="1.27" layer="25" ratio="10"/>
 <attribute name="POPULARITY" value="92" x="49.276" y="22.352" size="1.778" layer="27" display="off"/>
 <attribute name="VALUE" x="45.466" y="19.177" size="1.27" layer="27"/>

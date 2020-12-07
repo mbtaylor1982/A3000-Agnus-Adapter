@@ -1439,10 +1439,9 @@ einem neuen Namen ab.</description>
 <attribute name="NAME" x="3.302" y="54.483" size="1.778" layer="25" ratio="10"/>
 <attribute name="VALUE" x="42.672" y="20.574" size="1.778" layer="27" ratio="10" rot="R90"/>
 </element>
-<element name="IC2" library="Amiga" package="PLCC84_T" value="" x="35.052" y="78.232" smashed="yes">
+<element name="IC2" library="Amiga" package="PLCC84_T" value="A3000 Agnus Socket" x="35.052" y="78.232" smashed="yes">
 <attribute name="NAME" x="17.018" y="93.345" size="1.778" layer="25" ratio="10"/>
-<attribute name="VALUE" x="39.1795" y="95.377" size="1.27" layer="27" ratio="10"/>
-<attribute name="VALUE" x="29.972" y="75.692" size="1.778" layer="27" ratio="10"/>
+<attribute name="VALUE" x="24.1935" y="77.7367" size="1.778" layer="27" ratio="10"/>
 </element>
 <element name="IC3" library="74xx-us" library_urn="urn:adsk.eagle:library:88" package="SO14" package3d_urn="urn:adsk.eagle:package:2917/1" value="74LS02D" x="49.022" y="32.512" smashed="yes">
 <attribute name="NAME" x="44.323" y="31.242" size="1.27" layer="25" ratio="10" rot="R90"/>
@@ -1464,7 +1463,7 @@ einem neuen Namen ab.</description>
 <attribute name="VALUE" x="45.974" y="38.7043" size="1.27" layer="27" align="top-center"/>
 <attribute name="VOLTAGE_RATING" value="" x="45.974" y="40.386" size="1.778" layer="27" display="off"/>
 </element>
-<element name="C2" library="Capacitor" library_urn="urn:adsk.eagle:library:16290819" package="CAPAE830X1050N" package3d_urn="urn:adsk.eagle:package:16290889/1" value="" x="8.128" y="67.056" smashed="yes">
+<element name="C2" library="Capacitor" library_urn="urn:adsk.eagle:library:16290819" package="CAPAE830X1050N" package3d_urn="urn:adsk.eagle:package:16290889/1" value="100uF" x="8.128" y="67.056" smashed="yes">
 <attribute name="CATEGORY" value="Capacitor" x="8.128" y="67.056" size="1.778" layer="27" display="off"/>
 <attribute name="MANUFACTURER" value="" x="8.128" y="67.056" size="1.778" layer="27" display="off"/>
 <attribute name="MPN" value="" x="8.128" y="67.056" size="1.778" layer="27" display="off"/>
@@ -1479,10 +1478,10 @@ einem neuen Namen ab.</description>
 <attribute name="VALUE" x="8.128" y="60.421" size="1.27" layer="27" align="top-center"/>
 <attribute name="VOLTAGE_RATING" value="" x="8.128" y="67.056" size="1.778" layer="27" display="off"/>
 </element>
-<element name="JP1" library="pinhead" library_urn="urn:adsk.eagle:library:325" package="1X03" package3d_urn="urn:adsk.eagle:package:22458/2" value="" x="49.276" y="22.352" smashed="yes">
-<attribute name="NAME" x="46.1518" y="24.9428" size="1.27" layer="25" ratio="10"/>
+<element name="JP1" library="pinhead" library_urn="urn:adsk.eagle:library:325" package="1X03" package3d_urn="urn:adsk.eagle:package:22458/2" value="RAS jumpers" x="49.276" y="22.352" smashed="yes">
+<attribute name="NAME" x="42.8625" y="19.7866" size="1.27" layer="25" ratio="10"/>
 <attribute name="POPULARITY" value="92" x="49.276" y="22.352" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="45.466" y="19.177" size="1.27" layer="27"/>
+<attribute name="VALUE" x="43.5991" y="24.4221" size="1.27" layer="27"/>
 </element>
 </elements>
 <signals>
@@ -2325,13 +2324,14 @@ einem neuen Namen ab.</description>
 <wire x1="36.068" y1="24.638" x2="33.782" y2="26.924" width="0.1524" layer="16"/>
 <wire x1="50.038" y1="64.50868125" x2="50.038" y2="28.702" width="0.1524" layer="16"/>
 </signal>
-<signal name="!RAMEN">
-<contactref element="IC1" pad="25"/>
+<signal name="S$1">
 <contactref element="IC2" pad="25"/>
 <wire x1="22.352" y1="75.692" x2="22.8473" y2="76.1873" width="0.15" layer="16"/>
-<wire x1="28.8925" y1="95.7453" x2="28.1813" y2="96.4565" width="0.15" layer="16"/>
 <wire x1="22.8473" y1="76.1873" x2="24.003" y2="76.1873" width="0.15" layer="16"/>
-<wire x1="24.003" y1="76.1873" x2="28.8925" y2="81.0768" width="0.15" layer="16"/>
+</signal>
+<signal name="!RAMEN">
+<contactref element="IC1" pad="25"/>
+<wire x1="28.8925" y1="95.7453" x2="28.1813" y2="96.4565" width="0.15" layer="16"/>
 <wire x1="28.8925" y1="81.0768" x2="28.8925" y2="95.7453" width="0.15" layer="16"/>
 <wire x1="28.1813" y1="96.4565" x2="10.668" y2="96.4565" width="0.15" layer="16"/>
 <wire x1="3.2893" y1="37.6936" x2="5.1562" y2="35.8267" width="0.15" layer="16"/>

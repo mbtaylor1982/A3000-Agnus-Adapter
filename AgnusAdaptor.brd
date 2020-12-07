@@ -2325,15 +2325,11 @@ einem neuen Namen ab.</description>
 <wire x1="36.068" y1="24.638" x2="33.782" y2="26.924" width="0.1524" layer="16"/>
 <wire x1="50.038" y1="64.50868125" x2="50.038" y2="28.702" width="0.1524" layer="16"/>
 </signal>
-<signal name="S$1">
-<contactref element="IC2" pad="25"/>
-<wire x1="22.352" y1="75.692" x2="22.8473" y2="76.1873" width="0.15" layer="16"/>
-<wire x1="22.8473" y1="76.1873" x2="24.003" y2="76.1873" width="0.15" layer="16"/>
-</signal>
 <signal name="!RAMEN">
 <contactref element="IC1" pad="25"/>
+<contactref element="IC2" pad="25"/>
 <wire x1="28.8925" y1="95.7453" x2="28.1813" y2="96.4565" width="0.15" layer="16"/>
-<wire x1="28.8925" y1="81.0768" x2="28.8925" y2="95.7453" width="0.15" layer="16"/>
+<wire x1="28.8925" y1="81.1657" x2="28.8925" y2="95.7453" width="0.15" layer="16"/>
 <wire x1="28.1813" y1="96.4565" x2="10.668" y2="96.4565" width="0.15" layer="16"/>
 <wire x1="3.2893" y1="37.6936" x2="5.1562" y2="35.8267" width="0.15" layer="16"/>
 <wire x1="5.1562" y1="35.8267" x2="7.3787" y2="35.8267" width="0.15" layer="16"/>
@@ -2341,6 +2337,9 @@ einem neuen Namen ab.</description>
 <wire x1="10.668" y1="96.4565" x2="3.2893" y2="89.0778" width="0.15" layer="16"/>
 <wire x1="3.2893" y1="89.0778" x2="3.2893" y2="37.6936" width="0.15" layer="16"/>
 <wire x1="7.3787" y1="35.8267" x2="8.382" y2="36.83" width="0.15" layer="16"/>
+<wire x1="28.8925" y1="81.1657" x2="28.0924" y2="80.3656" width="0.1524" layer="16"/>
+<wire x1="28.0924" y1="80.3656" x2="23.4188" y2="75.692" width="0.1524" layer="16"/>
+<wire x1="22.352" y1="75.692" x2="23.4188" y2="75.692" width="0.1524" layer="16"/>
 </signal>
 <signal name="!REGEN">
 <contactref element="IC1" pad="23"/>

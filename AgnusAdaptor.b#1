@@ -116,7 +116,8 @@
 <wire x1="1.27" y1="97.79" x2="1.27" y2="19.05" width="0.1524" layer="20"/>
 <wire x1="54.61" y1="97.79" x2="54.61" y2="19.05" width="0.1524" layer="20"/>
 <wire x1="1.27" y1="19.05" x2="54.61" y2="19.05" width="0.1524" layer="20"/>
-<text x="12.7" y="96.52" locked="yes" size="1.778" layer="121" rot="SR270">A3000 Agnus Adapter</text>
+<text x="11.2776" y="96.6978" size="1.778" layer="121" rot="SR270">A3000 Agnus Adapter 
+Prototype V0.1</text>
 <text x="8.89" y="96.52" locked="yes" size="1.016" layer="121" rot="SR270">Design By Mike Taylor 2020</text>
 </plain>
 <libraries>
@@ -2324,15 +2325,12 @@ einem neuen Namen ab.</description>
 <wire x1="36.068" y1="24.638" x2="33.782" y2="26.924" width="0.1524" layer="16"/>
 <wire x1="50.038" y1="64.50868125" x2="50.038" y2="28.702" width="0.1524" layer="16"/>
 </signal>
-<signal name="S$1">
-<contactref element="IC2" pad="25"/>
-<wire x1="22.352" y1="75.692" x2="22.8473" y2="76.1873" width="0.15" layer="16"/>
-<wire x1="22.8473" y1="76.1873" x2="24.003" y2="76.1873" width="0.15" layer="16"/>
-</signal>
 <signal name="!RAMEN">
 <contactref element="IC1" pad="25"/>
+<contactref element="IC2" pad="25"/>
 <wire x1="28.8925" y1="95.7453" x2="28.1813" y2="96.4565" width="0.15" layer="16"/>
-<wire x1="28.8925" y1="81.0768" x2="28.8925" y2="95.7453" width="0.15" layer="16"/>
+<wire x1="28.8925" y1="81.0768" x2="28.8925" y2="81.1657" width="0.15" layer="16"/>
+<wire x1="28.8925" y1="81.1657" x2="28.8925" y2="95.7453" width="0.15" layer="16"/>
 <wire x1="28.1813" y1="96.4565" x2="10.668" y2="96.4565" width="0.15" layer="16"/>
 <wire x1="3.2893" y1="37.6936" x2="5.1562" y2="35.8267" width="0.15" layer="16"/>
 <wire x1="5.1562" y1="35.8267" x2="7.3787" y2="35.8267" width="0.15" layer="16"/>
@@ -2340,6 +2338,8 @@ einem neuen Namen ab.</description>
 <wire x1="10.668" y1="96.4565" x2="3.2893" y2="89.0778" width="0.15" layer="16"/>
 <wire x1="3.2893" y1="89.0778" x2="3.2893" y2="37.6936" width="0.15" layer="16"/>
 <wire x1="7.3787" y1="35.8267" x2="8.382" y2="36.83" width="0.15" layer="16"/>
+<wire x1="22.352" y1="75.692" x2="27.8257" y2="81.1657" width="0.1524" layer="16"/>
+<wire x1="27.8257" y1="81.1657" x2="28.8925" y2="81.1657" width="0.1524" layer="16"/>
 </signal>
 <signal name="!REGEN">
 <contactref element="IC1" pad="23"/>
@@ -2687,6 +2687,10 @@ einem neuen Namen ab.</description>
 </board>
 </drawing>
 <compatibility>
+<note version="6.3" minversion="6.2.2" severity="warning">
+Since Version 6.2.2 text objects can contain more than one line,
+which will not be processed correctly with this version.
+</note>
 <note version="8.2" severity="warning">
 Since Version 8.2, EAGLE supports online libraries. The ids
 of those online libraries will not be understood (or retained)
