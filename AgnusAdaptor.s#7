@@ -8,34 +8,34 @@
 </settings>
 <grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
-<layer number="1" name="Top" color="4" fill="1" visible="yes" active="no"/>
-<layer number="2" name="Route2" color="16" fill="1" visible="yes" active="no"/>
-<layer number="3" name="Route3" color="17" fill="1" visible="yes" active="no"/>
-<layer number="4" name="Route4" color="18" fill="1" visible="yes" active="no"/>
-<layer number="5" name="Route5" color="19" fill="1" visible="yes" active="no"/>
-<layer number="6" name="Route6" color="25" fill="1" visible="yes" active="no"/>
-<layer number="7" name="Route7" color="26" fill="1" visible="yes" active="no"/>
-<layer number="8" name="Route8" color="27" fill="1" visible="yes" active="no"/>
-<layer number="9" name="Route9" color="28" fill="1" visible="yes" active="no"/>
-<layer number="10" name="Route10" color="29" fill="1" visible="yes" active="no"/>
-<layer number="11" name="Route11" color="30" fill="1" visible="yes" active="no"/>
-<layer number="12" name="Route12" color="20" fill="1" visible="yes" active="no"/>
-<layer number="13" name="Route13" color="21" fill="1" visible="yes" active="no"/>
-<layer number="14" name="Route14" color="22" fill="1" visible="yes" active="no"/>
-<layer number="15" name="Route15" color="23" fill="1" visible="yes" active="no"/>
-<layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="no"/>
-<layer number="17" name="Pads" color="2" fill="1" visible="yes" active="no"/>
-<layer number="18" name="Vias" color="2" fill="1" visible="yes" active="no"/>
-<layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="no"/>
-<layer number="20" name="Dimension" color="24" fill="1" visible="yes" active="no"/>
-<layer number="21" name="tPlace" color="7" fill="1" visible="yes" active="no"/>
-<layer number="22" name="bPlace" color="7" fill="1" visible="yes" active="no"/>
-<layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="no"/>
-<layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="no"/>
-<layer number="25" name="tNames" color="7" fill="1" visible="yes" active="no"/>
-<layer number="26" name="bNames" color="7" fill="1" visible="yes" active="no"/>
-<layer number="27" name="tValues" color="7" fill="1" visible="yes" active="no"/>
-<layer number="28" name="bValues" color="7" fill="1" visible="yes" active="no"/>
+<layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
+<layer number="2" name="Route2" color="16" fill="1" visible="no" active="no"/>
+<layer number="3" name="Route3" color="17" fill="1" visible="no" active="no"/>
+<layer number="4" name="Route4" color="18" fill="1" visible="no" active="no"/>
+<layer number="5" name="Route5" color="19" fill="1" visible="no" active="no"/>
+<layer number="6" name="Route6" color="25" fill="1" visible="no" active="no"/>
+<layer number="7" name="Route7" color="26" fill="1" visible="no" active="no"/>
+<layer number="8" name="Route8" color="27" fill="1" visible="no" active="no"/>
+<layer number="9" name="Route9" color="28" fill="1" visible="no" active="no"/>
+<layer number="10" name="Route10" color="29" fill="1" visible="no" active="no"/>
+<layer number="11" name="Route11" color="30" fill="1" visible="no" active="no"/>
+<layer number="12" name="Route12" color="20" fill="1" visible="no" active="no"/>
+<layer number="13" name="Route13" color="21" fill="1" visible="no" active="no"/>
+<layer number="14" name="Route14" color="22" fill="1" visible="no" active="no"/>
+<layer number="15" name="Route15" color="23" fill="1" visible="no" active="no"/>
+<layer number="16" name="Bottom" color="1" fill="1" visible="no" active="no"/>
+<layer number="17" name="Pads" color="2" fill="1" visible="no" active="no"/>
+<layer number="18" name="Vias" color="2" fill="1" visible="no" active="no"/>
+<layer number="19" name="Unrouted" color="6" fill="1" visible="no" active="no"/>
+<layer number="20" name="Dimension" color="24" fill="1" visible="no" active="no"/>
+<layer number="21" name="tPlace" color="7" fill="1" visible="no" active="no"/>
+<layer number="22" name="bPlace" color="7" fill="1" visible="no" active="no"/>
+<layer number="23" name="tOrigins" color="15" fill="1" visible="no" active="no"/>
+<layer number="24" name="bOrigins" color="15" fill="1" visible="no" active="no"/>
+<layer number="25" name="tNames" color="7" fill="1" visible="no" active="no"/>
+<layer number="26" name="bNames" color="7" fill="1" visible="no" active="no"/>
+<layer number="27" name="tValues" color="7" fill="1" visible="no" active="no"/>
+<layer number="28" name="bValues" color="7" fill="1" visible="no" active="no"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="no" active="no"/>
 <layer number="30" name="bStop" color="7" fill="6" visible="no" active="no"/>
 <layer number="31" name="tCream" color="7" fill="4" visible="no" active="no"/>
@@ -44,8 +44,8 @@
 <layer number="34" name="bFinish" color="6" fill="6" visible="no" active="no"/>
 <layer number="35" name="tGlue" color="7" fill="4" visible="no" active="no"/>
 <layer number="36" name="bGlue" color="7" fill="5" visible="no" active="no"/>
-<layer number="37" name="tTest" color="7" fill="1" visible="yes" active="no"/>
-<layer number="38" name="bTest" color="7" fill="1" visible="yes" active="no"/>
+<layer number="37" name="tTest" color="7" fill="1" visible="no" active="no"/>
+<layer number="38" name="bTest" color="7" fill="1" visible="no" active="no"/>
 <layer number="39" name="tKeepout" color="4" fill="11" visible="no" active="no"/>
 <layer number="40" name="bKeepout" color="1" fill="11" visible="no" active="no"/>
 <layer number="41" name="tRestrict" color="4" fill="10" visible="no" active="no"/>
@@ -53,16 +53,16 @@
 <layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="no"/>
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="no"/>
 <layer number="45" name="Holes" color="7" fill="1" visible="no" active="no"/>
-<layer number="46" name="Milling" color="3" fill="1" visible="yes" active="no"/>
-<layer number="47" name="Measures" color="7" fill="1" visible="yes" active="no"/>
-<layer number="48" name="Document" color="7" fill="1" visible="yes" active="no"/>
-<layer number="49" name="Reference" color="7" fill="1" visible="yes" active="no"/>
-<layer number="50" name="dxf" color="7" fill="1" visible="yes" active="no"/>
-<layer number="51" name="tDocu" color="7" fill="1" visible="yes" active="no"/>
-<layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="no"/>
-<layer number="53" name="tGND_GNDA" color="7" fill="1" visible="yes" active="no"/>
-<layer number="54" name="bGND_GNDA" color="7" fill="1" visible="yes" active="no"/>
-<layer number="56" name="wert" color="7" fill="1" visible="yes" active="no"/>
+<layer number="46" name="Milling" color="3" fill="1" visible="no" active="no"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="no" active="no"/>
+<layer number="48" name="Document" color="7" fill="1" visible="no" active="no"/>
+<layer number="49" name="Reference" color="7" fill="1" visible="no" active="no"/>
+<layer number="50" name="dxf" color="7" fill="1" visible="no" active="no"/>
+<layer number="51" name="tDocu" color="7" fill="1" visible="no" active="no"/>
+<layer number="52" name="bDocu" color="7" fill="1" visible="no" active="no"/>
+<layer number="53" name="tGND_GNDA" color="7" fill="1" visible="no" active="no"/>
+<layer number="54" name="bGND_GNDA" color="7" fill="1" visible="no" active="no"/>
+<layer number="56" name="wert" color="7" fill="1" visible="no" active="no"/>
 <layer number="88" name="SimResults" color="9" fill="1" visible="yes" active="yes"/>
 <layer number="89" name="SimProbes" color="9" fill="1" visible="yes" active="yes"/>
 <layer number="90" name="Modules" color="5" fill="1" visible="yes" active="yes"/>
@@ -74,6 +74,7 @@
 <layer number="96" name="Values" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="97" name="Info" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="98" name="Guide" color="6" fill="1" visible="yes" active="yes"/>
+<layer number="99" name="SpiceOrder" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="100" name="Muster" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="101" name="Patch_Top" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="102" name="Vscore" color="7" fill="1" visible="yes" active="yes"/>
@@ -3636,6 +3637,1318 @@ In this library the device names are the same as the pin names of the symbols, t
 </deviceset>
 </devicesets>
 </library>
+<library name="Capacitor" urn="urn:adsk.eagle:library:16290819">
+<description>&lt;B&gt;Capacitors - Fixed, Variable, Trimmers</description>
+<packages>
+<package name="CAPC1005X60" urn="urn:adsk.eagle:footprint:16290849/2" library_version="4">
+<description>Chip, 1.00 X 0.50 X 0.60 mm body
+&lt;p&gt;Chip package with body size 1.00 X 0.50 X 0.60 mm&lt;/p&gt;</description>
+<wire x1="0.55" y1="0.6286" x2="-0.55" y2="0.6286" width="0.127" layer="21"/>
+<wire x1="0.55" y1="-0.6286" x2="-0.55" y2="-0.6286" width="0.127" layer="21"/>
+<wire x1="0.55" y1="-0.3" x2="-0.55" y2="-0.3" width="0.12" layer="51"/>
+<wire x1="-0.55" y1="-0.3" x2="-0.55" y2="0.3" width="0.12" layer="51"/>
+<wire x1="-0.55" y1="0.3" x2="0.55" y2="0.3" width="0.12" layer="51"/>
+<wire x1="0.55" y1="0.3" x2="0.55" y2="-0.3" width="0.12" layer="51"/>
+<smd name="1" x="-0.4846" y="0" dx="0.56" dy="0.6291" layer="1"/>
+<smd name="2" x="0.4846" y="0" dx="0.56" dy="0.6291" layer="1"/>
+<text x="0" y="1.2636" size="1.27" layer="25" align="bottom-center">&gt;NAME</text>
+<text x="0" y="-1.2636" size="1.27" layer="27" align="top-center">&gt;VALUE</text>
+</package>
+<package name="CAPC1110X102" urn="urn:adsk.eagle:footprint:16290845/2" library_version="4">
+<description>Chip, 1.17 X 1.02 X 1.02 mm body
+&lt;p&gt;Chip package with body size 1.17 X 1.02 X 1.02 mm&lt;/p&gt;</description>
+<wire x1="0.66" y1="0.9552" x2="-0.66" y2="0.9552" width="0.127" layer="21"/>
+<wire x1="0.66" y1="-0.9552" x2="-0.66" y2="-0.9552" width="0.127" layer="21"/>
+<wire x1="0.66" y1="-0.635" x2="-0.66" y2="-0.635" width="0.12" layer="51"/>
+<wire x1="-0.66" y1="-0.635" x2="-0.66" y2="0.635" width="0.12" layer="51"/>
+<wire x1="-0.66" y1="0.635" x2="0.66" y2="0.635" width="0.12" layer="51"/>
+<wire x1="0.66" y1="0.635" x2="0.66" y2="-0.635" width="0.12" layer="51"/>
+<smd name="1" x="-0.5388" y="0" dx="0.6626" dy="1.2823" layer="1"/>
+<smd name="2" x="0.5388" y="0" dx="0.6626" dy="1.2823" layer="1"/>
+<text x="0" y="1.5902" size="1.27" layer="25" align="bottom-center">&gt;NAME</text>
+<text x="0" y="-1.5902" size="1.27" layer="27" align="top-center">&gt;VALUE</text>
+</package>
+<package name="CAPC1608X85" urn="urn:adsk.eagle:footprint:16290847/2" library_version="4">
+<description>Chip, 1.60 X 0.80 X 0.85 mm body
+&lt;p&gt;Chip package with body size 1.60 X 0.80 X 0.85 mm&lt;/p&gt;</description>
+<wire x1="0.875" y1="0.7991" x2="-0.875" y2="0.7991" width="0.127" layer="21"/>
+<wire x1="0.875" y1="-0.7991" x2="-0.875" y2="-0.7991" width="0.127" layer="21"/>
+<wire x1="0.875" y1="-0.475" x2="-0.875" y2="-0.475" width="0.12" layer="51"/>
+<wire x1="-0.875" y1="-0.475" x2="-0.875" y2="0.475" width="0.12" layer="51"/>
+<wire x1="-0.875" y1="0.475" x2="0.875" y2="0.475" width="0.12" layer="51"/>
+<wire x1="0.875" y1="0.475" x2="0.875" y2="-0.475" width="0.12" layer="51"/>
+<smd name="1" x="-0.7746" y="0" dx="0.9209" dy="0.9702" layer="1"/>
+<smd name="2" x="0.7746" y="0" dx="0.9209" dy="0.9702" layer="1"/>
+<text x="0" y="1.4341" size="1.27" layer="25" align="bottom-center">&gt;NAME</text>
+<text x="0" y="-1.4341" size="1.27" layer="27" align="top-center">&gt;VALUE</text>
+</package>
+<package name="CAPC2012X110" urn="urn:adsk.eagle:footprint:16290848/2" library_version="4">
+<description>Chip, 2.00 X 1.25 X 1.10 mm body
+&lt;p&gt;Chip package with body size 2.00 X 1.25 X 1.10 mm&lt;/p&gt;</description>
+<wire x1="1.1" y1="1.0467" x2="-1.1" y2="1.0467" width="0.127" layer="21"/>
+<wire x1="1.1" y1="-1.0467" x2="-1.1" y2="-1.0467" width="0.127" layer="21"/>
+<wire x1="1.1" y1="-0.725" x2="-1.1" y2="-0.725" width="0.12" layer="51"/>
+<wire x1="-1.1" y1="-0.725" x2="-1.1" y2="0.725" width="0.12" layer="51"/>
+<wire x1="-1.1" y1="0.725" x2="1.1" y2="0.725" width="0.12" layer="51"/>
+<wire x1="1.1" y1="0.725" x2="1.1" y2="-0.725" width="0.12" layer="51"/>
+<smd name="1" x="-0.8754" y="0" dx="1.1646" dy="1.4653" layer="1"/>
+<smd name="2" x="0.8754" y="0" dx="1.1646" dy="1.4653" layer="1"/>
+<text x="0" y="1.6817" size="1.27" layer="25" align="bottom-center">&gt;NAME</text>
+<text x="0" y="-1.6817" size="1.27" layer="27" align="top-center">&gt;VALUE</text>
+</package>
+<package name="CAPC3216X135" urn="urn:adsk.eagle:footprint:16290836/2" library_version="4">
+<description>Chip, 3.20 X 1.60 X 1.35 mm body
+&lt;p&gt;Chip package with body size 3.20 X 1.60 X 1.35 mm&lt;/p&gt;</description>
+<wire x1="1.7" y1="1.2217" x2="-1.7" y2="1.2217" width="0.127" layer="21"/>
+<wire x1="1.7" y1="-1.2217" x2="-1.7" y2="-1.2217" width="0.127" layer="21"/>
+<wire x1="1.7" y1="-0.9" x2="-1.7" y2="-0.9" width="0.12" layer="51"/>
+<wire x1="-1.7" y1="-0.9" x2="-1.7" y2="0.9" width="0.12" layer="51"/>
+<wire x1="-1.7" y1="0.9" x2="1.7" y2="0.9" width="0.12" layer="51"/>
+<wire x1="1.7" y1="0.9" x2="1.7" y2="-0.9" width="0.12" layer="51"/>
+<smd name="1" x="-1.4754" y="0" dx="1.1646" dy="1.8153" layer="1"/>
+<smd name="2" x="1.4754" y="0" dx="1.1646" dy="1.8153" layer="1"/>
+<text x="0" y="1.8567" size="1.27" layer="25" align="bottom-center">&gt;NAME</text>
+<text x="0" y="-1.8567" size="1.27" layer="27" align="top-center">&gt;VALUE</text>
+</package>
+<package name="CAPC3225X135" urn="urn:adsk.eagle:footprint:16290843/2" library_version="4">
+<description>Chip, 3.20 X 2.50 X 1.35 mm body
+&lt;p&gt;Chip package with body size 3.20 X 2.50 X 1.35 mm&lt;/p&gt;</description>
+<wire x1="1.7" y1="1.6717" x2="-1.7" y2="1.6717" width="0.127" layer="21"/>
+<wire x1="1.7" y1="-1.6717" x2="-1.7" y2="-1.6717" width="0.12" layer="21"/>
+<wire x1="1.7" y1="-1.35" x2="-1.7" y2="-1.35" width="0.12" layer="51"/>
+<wire x1="-1.7" y1="-1.35" x2="-1.7" y2="1.35" width="0.12" layer="51"/>
+<wire x1="-1.7" y1="1.35" x2="1.7" y2="1.35" width="0.12" layer="51"/>
+<wire x1="1.7" y1="1.35" x2="1.7" y2="-1.35" width="0.12" layer="51"/>
+<smd name="1" x="-1.4754" y="0" dx="1.1646" dy="2.7153" layer="1"/>
+<smd name="2" x="1.4754" y="0" dx="1.1646" dy="2.7153" layer="1"/>
+<text x="0" y="2.3067" size="1.27" layer="25" align="bottom-center">&gt;NAME</text>
+<text x="0" y="-2.3067" size="1.27" layer="27" align="top-center">&gt;VALUE</text>
+</package>
+<package name="CAPC4532X135" urn="urn:adsk.eagle:footprint:16290841/2" library_version="4">
+<description>Chip, 4.50 X 3.20 X 1.35 mm body
+&lt;p&gt;Chip package with body size 4.50 X 3.20 X 1.35 mm&lt;/p&gt;</description>
+<wire x1="2.4" y1="2.0217" x2="-2.4" y2="2.0217" width="0.127" layer="21"/>
+<wire x1="2.4" y1="-2.0217" x2="-2.4" y2="-2.0217" width="0.127" layer="21"/>
+<wire x1="2.4" y1="-1.7" x2="-2.4" y2="-1.7" width="0.12" layer="51"/>
+<wire x1="-2.4" y1="-1.7" x2="-2.4" y2="1.7" width="0.12" layer="51"/>
+<wire x1="-2.4" y1="1.7" x2="2.4" y2="1.7" width="0.12" layer="51"/>
+<wire x1="2.4" y1="1.7" x2="2.4" y2="-1.7" width="0.12" layer="51"/>
+<smd name="1" x="-2.0565" y="0" dx="1.3973" dy="3.4153" layer="1"/>
+<smd name="2" x="2.0565" y="0" dx="1.3973" dy="3.4153" layer="1"/>
+<text x="0" y="2.6567" size="1.27" layer="25" align="bottom-center">&gt;NAME</text>
+<text x="0" y="-2.6567" size="1.27" layer="27" align="top-center">&gt;VALUE</text>
+</package>
+<package name="CAPM3216X180" urn="urn:adsk.eagle:footprint:16290835/2" library_version="4">
+<description>Molded Body, 3.20 X 1.60 X 1.80 mm body
+&lt;p&gt;Molded Body package with body size 3.20 X 1.60 X 1.80 mm&lt;/p&gt;</description>
+<wire x1="-1.7" y1="0.9084" x2="1.7" y2="0.9084" width="0.127" layer="21"/>
+<wire x1="-1.7" y1="-0.9084" x2="1.7" y2="-0.9084" width="0.127" layer="21"/>
+<wire x1="1.7" y1="-0.9" x2="-1.7" y2="-0.9" width="0.12" layer="51"/>
+<wire x1="-1.7" y1="-0.9" x2="-1.7" y2="0.9" width="0.12" layer="51"/>
+<wire x1="-1.7" y1="0.9" x2="1.7" y2="0.9" width="0.12" layer="51"/>
+<wire x1="1.7" y1="0.9" x2="1.7" y2="-0.9" width="0.12" layer="51"/>
+<smd name="1" x="-1.3099" y="0" dx="1.7955" dy="1.1887" layer="1"/>
+<smd name="2" x="1.3099" y="0" dx="1.7955" dy="1.1887" layer="1"/>
+<text x="0" y="1.5434" size="1.27" layer="25" align="bottom-center">&gt;NAME</text>
+<text x="0" y="-1.5434" size="1.27" layer="27" align="top-center">&gt;VALUE</text>
+</package>
+<package name="CAPM3528X210" urn="urn:adsk.eagle:footprint:16290844/2" library_version="4">
+<description>Molded Body, 3.50 X 2.80 X 2.10 mm body
+&lt;p&gt;Molded Body package with body size 3.50 X 2.80 X 2.10 mm&lt;/p&gt;</description>
+<wire x1="-1.85" y1="1.5" x2="1.85" y2="1.5" width="0.127" layer="21"/>
+<wire x1="-1.85" y1="-1.5" x2="1.85" y2="-1.5" width="0.127" layer="21"/>
+<wire x1="1.85" y1="-1.5" x2="-1.85" y2="-1.5" width="0.12" layer="51"/>
+<wire x1="-1.85" y1="-1.5" x2="-1.85" y2="1.5" width="0.12" layer="51"/>
+<wire x1="-1.85" y1="1.5" x2="1.85" y2="1.5" width="0.12" layer="51"/>
+<wire x1="1.85" y1="1.5" x2="1.85" y2="-1.5" width="0.12" layer="51"/>
+<smd name="1" x="-1.4599" y="0" dx="1.7955" dy="2.2036" layer="1"/>
+<smd name="2" x="1.4599" y="0" dx="1.7955" dy="2.2036" layer="1"/>
+<text x="0" y="2.135" size="1.27" layer="25" align="bottom-center">&gt;NAME</text>
+<text x="0" y="-2.135" size="1.27" layer="27" align="top-center">&gt;VALUE</text>
+</package>
+<package name="CAPM6032X280" urn="urn:adsk.eagle:footprint:16290839/2" library_version="4">
+<description>Molded Body, 6.00 X 3.20 X 2.80 mm body
+&lt;p&gt;Molded Body package with body size 6.00 X 3.20 X 2.80 mm&lt;/p&gt;</description>
+<wire x1="-3.15" y1="1.75" x2="3.15" y2="1.75" width="0.127" layer="21"/>
+<wire x1="-3.15" y1="-1.75" x2="3.15" y2="-1.75" width="0.127" layer="21"/>
+<wire x1="3.15" y1="-1.75" x2="-3.15" y2="-1.75" width="0.12" layer="51"/>
+<wire x1="-3.15" y1="-1.75" x2="-3.15" y2="1.75" width="0.12" layer="51"/>
+<wire x1="-3.15" y1="1.75" x2="3.15" y2="1.75" width="0.12" layer="51"/>
+<wire x1="3.15" y1="1.75" x2="3.15" y2="-1.75" width="0.12" layer="51"/>
+<smd name="1" x="-2.4712" y="0" dx="2.368" dy="2.2036" layer="1"/>
+<smd name="2" x="2.4712" y="0" dx="2.368" dy="2.2036" layer="1"/>
+<text x="0" y="2.385" size="1.27" layer="25" align="bottom-center">&gt;NAME</text>
+<text x="0" y="-2.385" size="1.27" layer="27" align="top-center">&gt;VALUE</text>
+</package>
+<package name="CAPM7343X310" urn="urn:adsk.eagle:footprint:16290840/2" library_version="4">
+<description>Molded Body, 7.30 X 4.30 X 3.10 mm body
+&lt;p&gt;Molded Body package with body size 7.30 X 4.30 X 3.10 mm&lt;/p&gt;</description>
+<wire x1="-3.8" y1="2.3" x2="3.8" y2="2.3" width="0.127" layer="21"/>
+<wire x1="-3.8" y1="-2.3" x2="3.8" y2="-2.3" width="0.127" layer="21"/>
+<wire x1="3.8" y1="-2.3" x2="-3.8" y2="-2.3" width="0.12" layer="51"/>
+<wire x1="-3.8" y1="-2.3" x2="-3.8" y2="2.3" width="0.12" layer="51"/>
+<wire x1="-3.8" y1="2.3" x2="3.8" y2="2.3" width="0.12" layer="51"/>
+<wire x1="3.8" y1="2.3" x2="3.8" y2="-2.3" width="0.12" layer="51"/>
+<smd name="1" x="-3.1212" y="0" dx="2.368" dy="2.4036" layer="1"/>
+<smd name="2" x="3.1212" y="0" dx="2.368" dy="2.4036" layer="1"/>
+<text x="0" y="2.935" size="1.27" layer="25" align="bottom-center">&gt;NAME</text>
+<text x="0" y="-2.935" size="1.27" layer="27" align="top-center">&gt;VALUE</text>
+</package>
+<package name="CAPC4564X110" urn="urn:adsk.eagle:footprint:16290837/2" library_version="4">
+<description>Chip, 4.50 X 6.40 X 1.10 mm body
+&lt;p&gt;Chip package with body size 4.50 X 6.40 X 1.10 mm&lt;/p&gt;</description>
+<wire x1="2.4" y1="3.7179" x2="-2.4" y2="3.7179" width="0.127" layer="21"/>
+<wire x1="2.4" y1="-3.7179" x2="-2.4" y2="-3.7179" width="0.127" layer="21"/>
+<wire x1="2.4" y1="-3.4" x2="-2.4" y2="-3.4" width="0.12" layer="51"/>
+<wire x1="-2.4" y1="-3.4" x2="-2.4" y2="3.4" width="0.12" layer="51"/>
+<wire x1="-2.4" y1="3.4" x2="2.4" y2="3.4" width="0.12" layer="51"/>
+<wire x1="2.4" y1="3.4" x2="2.4" y2="-3.4" width="0.12" layer="51"/>
+<smd name="1" x="-2.0565" y="0" dx="1.3973" dy="6.8078" layer="1"/>
+<smd name="2" x="2.0565" y="0" dx="1.3973" dy="6.8078" layer="1"/>
+<text x="0" y="4.3529" size="1.27" layer="25" align="bottom-center">&gt;NAME</text>
+<text x="0" y="-4.3529" size="1.27" layer="27" align="top-center">&gt;VALUE</text>
+</package>
+<package name="CAPRD550W60D1025H1250B" urn="urn:adsk.eagle:footprint:16290829/2" library_version="4">
+<description>Radial Non-Polarized Capacitor, 5.50 mm pitch, 10.25 mm body diameter, 12.50 mm body height
+&lt;p&gt;Radial Non-Polarized Capacitor package with 5.50 mm pitch (lead spacing), 0.60 mm lead diameter, 10.25 mm body diameter and 12.50 mm body height&lt;/p&gt;</description>
+<circle x="0" y="0" radius="5.25" width="0.127" layer="21"/>
+<circle x="0" y="0" radius="5.25" width="0.12" layer="51"/>
+<pad name="1" x="-2.75" y="0" drill="0.8" diameter="1.4"/>
+<pad name="2" x="2.75" y="0" drill="0.8" diameter="1.4"/>
+<text x="0" y="5.885" size="1.27" layer="25" align="bottom-center">&gt;NAME</text>
+<text x="0" y="-5.885" size="1.27" layer="27" align="top-center">&gt;VALUE</text>
+</package>
+<package name="CAPRD2261W240D5080H5555B" urn="urn:adsk.eagle:footprint:16290850/2" library_version="4">
+<description>Radial Non-Polarized Capacitor, 22.61 mm pitch, 50.80 mm body diameter, 55.55 mm body height
+&lt;p&gt;Radial Non-Polarized Capacitor package with 22.61 mm pitch (lead spacing), 2.40 mm lead diameter, 50.80 mm body diameter and 55.55 mm body height&lt;/p&gt;</description>
+<circle x="0" y="0" radius="25.79" width="0.127" layer="21"/>
+<circle x="0" y="0" radius="25.79" width="0.12" layer="51"/>
+<pad name="1" x="-11.305" y="0" drill="2.6" diameter="3.9"/>
+<pad name="2" x="11.305" y="0" drill="2.6" diameter="3.9"/>
+<text x="0" y="26.425" size="1.27" layer="25" align="bottom-center">&gt;NAME</text>
+<text x="0" y="-26.425" size="1.27" layer="27" align="top-center">&gt;VALUE</text>
+</package>
+<package name="CAPMP3216X180N" urn="urn:adsk.eagle:footprint:16290838/1" library_version="4">
+<description>Molded Body, 3.20 X 1.60 X 1.80 mm body
+&lt;p&gt;Molded Body package with body size 3.20 X 1.60 X 1.80 mm&lt;/p&gt;</description>
+<wire x1="1.7" y1="0.9084" x2="-2.5217" y2="0.9084" width="0.12" layer="21"/>
+<wire x1="-2.5217" y1="0.9084" x2="-2.5217" y2="-0.9084" width="0.12" layer="21"/>
+<wire x1="-2.5217" y1="-0.9084" x2="1.7" y2="-0.9084" width="0.12" layer="21"/>
+<wire x1="1.7" y1="-0.9" x2="-1.7" y2="-0.9" width="0.12" layer="51"/>
+<wire x1="-1.7" y1="-0.9" x2="-1.7" y2="0.9" width="0.12" layer="51"/>
+<wire x1="-1.7" y1="0.9" x2="1.7" y2="0.9" width="0.12" layer="51"/>
+<wire x1="1.7" y1="0.9" x2="1.7" y2="-0.9" width="0.12" layer="51"/>
+<smd name="1" x="-1.3099" y="0" dx="1.7955" dy="1.1887" layer="1"/>
+<smd name="2" x="1.3099" y="0" dx="1.7955" dy="1.1887" layer="1"/>
+<text x="0" y="1.5434" size="1.27" layer="25" align="bottom-center">&gt;NAME</text>
+<text x="0" y="-1.5434" size="1.27" layer="27" align="top-center">&gt;VALUE</text>
+</package>
+<package name="CAPMP3528X210N" urn="urn:adsk.eagle:footprint:16290842/1" library_version="4">
+<description>Molded Body, 3.50 X 2.80 X 2.10 mm body
+&lt;p&gt;Molded Body package with body size 3.50 X 2.80 X 2.10 mm&lt;/p&gt;</description>
+<wire x1="1.85" y1="1.5" x2="-2.6717" y2="1.5" width="0.12" layer="21"/>
+<wire x1="-2.6717" y1="1.5" x2="-2.6717" y2="-1.5" width="0.12" layer="21"/>
+<wire x1="-2.6717" y1="-1.5" x2="1.85" y2="-1.5" width="0.12" layer="21"/>
+<wire x1="1.85" y1="-1.5" x2="-1.85" y2="-1.5" width="0.12" layer="51"/>
+<wire x1="-1.85" y1="-1.5" x2="-1.85" y2="1.5" width="0.12" layer="51"/>
+<wire x1="-1.85" y1="1.5" x2="1.85" y2="1.5" width="0.12" layer="51"/>
+<wire x1="1.85" y1="1.5" x2="1.85" y2="-1.5" width="0.12" layer="51"/>
+<smd name="1" x="-1.4599" y="0" dx="1.7955" dy="2.2036" layer="1"/>
+<smd name="2" x="1.4599" y="0" dx="1.7955" dy="2.2036" layer="1"/>
+<text x="0" y="2.135" size="1.27" layer="25" align="bottom-center">&gt;NAME</text>
+<text x="0" y="-2.135" size="1.27" layer="27" align="top-center">&gt;VALUE</text>
+</package>
+<package name="CAPMP6032X280N" urn="urn:adsk.eagle:footprint:16290825/1" library_version="4">
+<description>Molded Body, 6.00 X 3.20 X 2.80 mm body
+&lt;p&gt;Molded Body package with body size 6.00 X 3.20 X 2.80 mm&lt;/p&gt;</description>
+<wire x1="3.15" y1="1.75" x2="-3.9692" y2="1.75" width="0.12" layer="21"/>
+<wire x1="-3.9692" y1="1.75" x2="-3.9692" y2="-1.75" width="0.12" layer="21"/>
+<wire x1="-3.9692" y1="-1.75" x2="3.15" y2="-1.75" width="0.12" layer="21"/>
+<wire x1="3.15" y1="-1.75" x2="-3.15" y2="-1.75" width="0.12" layer="51"/>
+<wire x1="-3.15" y1="-1.75" x2="-3.15" y2="1.75" width="0.12" layer="51"/>
+<wire x1="-3.15" y1="1.75" x2="3.15" y2="1.75" width="0.12" layer="51"/>
+<wire x1="3.15" y1="1.75" x2="3.15" y2="-1.75" width="0.12" layer="51"/>
+<smd name="1" x="-2.4712" y="0" dx="2.368" dy="2.2036" layer="1"/>
+<smd name="2" x="2.4712" y="0" dx="2.368" dy="2.2036" layer="1"/>
+<text x="0" y="2.385" size="1.27" layer="25" align="bottom-center">&gt;NAME</text>
+<text x="0" y="-2.385" size="1.27" layer="27" align="top-center">&gt;VALUE</text>
+</package>
+<package name="CAPMP7343X310N" urn="urn:adsk.eagle:footprint:16290846/1" library_version="4">
+<description>Molded Body, 7.30 X 4.30 X 3.10 mm body
+&lt;p&gt;Molded Body package with body size 7.30 X 4.30 X 3.10 mm&lt;/p&gt;</description>
+<wire x1="3.8" y1="2.3" x2="-4.6192" y2="2.3" width="0.12" layer="21"/>
+<wire x1="-4.6192" y1="2.3" x2="-4.6192" y2="-2.3" width="0.12" layer="21"/>
+<wire x1="-4.6192" y1="-2.3" x2="3.8" y2="-2.3" width="0.12" layer="21"/>
+<wire x1="3.8" y1="-2.3" x2="-3.8" y2="-2.3" width="0.12" layer="51"/>
+<wire x1="-3.8" y1="-2.3" x2="-3.8" y2="2.3" width="0.12" layer="51"/>
+<wire x1="-3.8" y1="2.3" x2="3.8" y2="2.3" width="0.12" layer="51"/>
+<wire x1="3.8" y1="2.3" x2="3.8" y2="-2.3" width="0.12" layer="51"/>
+<smd name="1" x="-3.1212" y="0" dx="2.368" dy="2.4036" layer="1"/>
+<smd name="2" x="3.1212" y="0" dx="2.368" dy="2.4036" layer="1"/>
+<text x="0" y="2.935" size="1.27" layer="25" align="bottom-center">&gt;NAME</text>
+<text x="0" y="-2.935" size="1.27" layer="27" align="top-center">&gt;VALUE</text>
+</package>
+<package name="CAPPRD508W65D1000H1100B" urn="urn:adsk.eagle:footprint:16290830/1" library_version="4">
+<description>Radial Polarized Capacitor, 5.08 mm pitch, 10.00 mm body diameter, 11.00 mm body height
+&lt;p&gt;Radial Polarized Capacitor package with 5.08 mm pitch (lead spacing), 0.65 mm lead diameter, 10.00 mm body diameter and 11.00 mm body height&lt;/p&gt;</description>
+<circle x="0" y="0" radius="5" width="0.12" layer="21"/>
+<circle x="0" y="0" radius="5" width="0.12" layer="51"/>
+<wire x1="-4.1325" y1="4.1326" x2="-3.3825" y2="4.1326" width="0.12" layer="21"/>
+<wire x1="-3.7575" y1="4.5076" x2="-3.7575" y2="3.7576" width="0.12" layer="21"/>
+<pad name="1" x="-2.54" y="0" drill="0.85" diameter="1.45"/>
+<pad name="2" x="2.54" y="0" drill="0.85" diameter="1.45"/>
+<text x="0" y="5.635" size="1.27" layer="25" align="bottom-center">&gt;NAME</text>
+<text x="0" y="-5.635" size="1.27" layer="27" align="top-center">&gt;VALUE</text>
+</package>
+<package name="CAPAE1030X1050N" urn="urn:adsk.eagle:footprint:16290833/1" library_version="4">
+<description>ECAP (Aluminum Electrolytic Capacitor), 10.30 X 10.50 mm body
+&lt;p&gt;ECAP (Aluminum Electrolytic Capacitor) package with body size 10.30 X 10.50 mm&lt;/p&gt;</description>
+<wire x1="-5.25" y1="1.3117" x2="-5.25" y2="3.1538" width="0.12" layer="21"/>
+<wire x1="-5.25" y1="3.1538" x2="-3.1538" y2="5.25" width="0.12" layer="21"/>
+<wire x1="-3.1538" y1="5.25" x2="5.25" y2="5.25" width="0.12" layer="21"/>
+<wire x1="5.25" y1="5.25" x2="5.25" y2="1.3117" width="0.12" layer="21"/>
+<wire x1="-5.25" y1="-1.3117" x2="-5.25" y2="-3.1538" width="0.12" layer="21"/>
+<wire x1="-5.25" y1="-3.1538" x2="-3.1538" y2="-5.25" width="0.12" layer="21"/>
+<wire x1="-3.1538" y1="-5.25" x2="5.25" y2="-5.25" width="0.12" layer="21"/>
+<wire x1="5.25" y1="-5.25" x2="5.25" y2="-1.3117" width="0.12" layer="21"/>
+<wire x1="5.25" y1="-5.25" x2="-5.25" y2="-5.25" width="0.12" layer="51"/>
+<wire x1="-5.25" y1="-5.25" x2="-5.25" y2="5.25" width="0.12" layer="51"/>
+<wire x1="-5.25" y1="5.25" x2="5.25" y2="5.25" width="0.12" layer="51"/>
+<wire x1="5.25" y1="5.25" x2="5.25" y2="-5.25" width="0.12" layer="51"/>
+<smd name="1" x="-4.3527" y="0" dx="4.4157" dy="2.1153" layer="1"/>
+<smd name="2" x="4.3527" y="0" dx="4.4157" dy="2.1153" layer="1"/>
+<text x="0" y="5.885" size="1.27" layer="25" align="bottom-center">&gt;NAME</text>
+<text x="0" y="-5.885" size="1.27" layer="27" align="top-center">&gt;VALUE</text>
+</package>
+<package name="CAPAE830X1050N" urn="urn:adsk.eagle:footprint:16290826/1" library_version="4">
+<description>ECAP (Aluminum Electrolytic Capacitor), 8.30 X 10.50 mm body
+&lt;p&gt;ECAP (Aluminum Electrolytic Capacitor) package with body size 8.30 X 10.50 mm&lt;/p&gt;</description>
+<wire x1="-4.25" y1="1.3117" x2="-4.25" y2="2.6538" width="0.12" layer="21"/>
+<wire x1="-4.25" y1="2.6538" x2="-2.6538" y2="4.25" width="0.12" layer="21"/>
+<wire x1="-2.6538" y1="4.25" x2="4.25" y2="4.25" width="0.12" layer="21"/>
+<wire x1="4.25" y1="4.25" x2="4.25" y2="1.3117" width="0.12" layer="21"/>
+<wire x1="-4.25" y1="-1.3117" x2="-4.25" y2="-2.6538" width="0.12" layer="21"/>
+<wire x1="-4.25" y1="-2.6538" x2="-2.6538" y2="-4.25" width="0.12" layer="21"/>
+<wire x1="-2.6538" y1="-4.25" x2="4.25" y2="-4.25" width="0.12" layer="21"/>
+<wire x1="4.25" y1="-4.25" x2="4.25" y2="-1.3117" width="0.12" layer="21"/>
+<wire x1="4.25" y1="-4.25" x2="-4.25" y2="-4.25" width="0.12" layer="51"/>
+<wire x1="-4.25" y1="-4.25" x2="-4.25" y2="4.25" width="0.12" layer="51"/>
+<wire x1="-4.25" y1="4.25" x2="4.25" y2="4.25" width="0.12" layer="51"/>
+<wire x1="4.25" y1="4.25" x2="4.25" y2="-4.25" width="0.12" layer="51"/>
+<smd name="1" x="-3.4259" y="0" dx="3.7636" dy="2.1153" layer="1"/>
+<smd name="2" x="3.4259" y="0" dx="3.7636" dy="2.1153" layer="1"/>
+<text x="0" y="4.885" size="1.27" layer="25" align="bottom-center">&gt;NAME</text>
+<text x="0" y="-4.885" size="1.27" layer="27" align="top-center">&gt;VALUE</text>
+</package>
+<package name="CAPPRD1000W100D2275H3200B" urn="urn:adsk.eagle:footprint:16290828/1" library_version="4">
+<description>Radial Polarized Capacitor, 10.00 mm pitch, 22.75 mm body diameter, 32.00 mm body height
+&lt;p&gt;Radial Polarized Capacitor package with 10.00 mm pitch (lead spacing), 1.00 mm lead diameter, 22.75 mm body diameter and 32.00 mm body height&lt;/p&gt;</description>
+<circle x="0" y="0" radius="11.75" width="0.12" layer="21"/>
+<circle x="0" y="0" radius="11.75" width="0.12" layer="51"/>
+<wire x1="-8.9055" y1="8.9056" x2="-8.1555" y2="8.9056" width="0.12" layer="21"/>
+<wire x1="-8.5305" y1="9.2806" x2="-8.5305" y2="8.5306" width="0.12" layer="21"/>
+<pad name="1" x="-5" y="0" drill="1.2" diameter="1.8"/>
+<pad name="2" x="5" y="0" drill="1.2" diameter="1.8"/>
+<text x="0" y="12.385" size="1.27" layer="25" align="bottom-center">&gt;NAME</text>
+<text x="0" y="-12.385" size="1.27" layer="27" align="top-center">&gt;VALUE</text>
+</package>
+<package name="CAPAE1905X1660N" urn="urn:adsk.eagle:footprint:16290827/1" library_version="4">
+<description>ECAP (Aluminum Electrolytic Capacitor), 19.05 X 16.60 mm body
+&lt;p&gt;ECAP (Aluminum Electrolytic Capacitor) package with body size 19.05 X 16.60 mm&lt;/p&gt;</description>
+<wire x1="-9.6" y1="1.4617" x2="-9.6" y2="5.4038" width="0.12" layer="21"/>
+<wire x1="-9.6" y1="5.4038" x2="-5.4038" y2="9.6" width="0.12" layer="21"/>
+<wire x1="-5.4038" y1="9.6" x2="9.6" y2="9.6" width="0.12" layer="21"/>
+<wire x1="9.6" y1="9.6" x2="9.6" y2="1.4617" width="0.12" layer="21"/>
+<wire x1="-9.6" y1="-1.4617" x2="-9.6" y2="-5.4038" width="0.12" layer="21"/>
+<wire x1="-9.6" y1="-5.4038" x2="-5.4038" y2="-9.6" width="0.12" layer="21"/>
+<wire x1="-5.4038" y1="-9.6" x2="9.6" y2="-9.6" width="0.12" layer="21"/>
+<wire x1="9.6" y1="-9.6" x2="9.6" y2="-1.4617" width="0.12" layer="21"/>
+<wire x1="9.6" y1="-9.6" x2="-9.6" y2="-9.6" width="0.12" layer="51"/>
+<wire x1="-9.6" y1="-9.6" x2="-9.6" y2="9.6" width="0.12" layer="51"/>
+<wire x1="-9.6" y1="9.6" x2="9.6" y2="9.6" width="0.12" layer="51"/>
+<wire x1="9.6" y1="9.6" x2="9.6" y2="-9.6" width="0.12" layer="51"/>
+<smd name="1" x="-6.9877" y="0" dx="7.6873" dy="2.4153" layer="1"/>
+<smd name="2" x="6.9877" y="0" dx="7.6873" dy="2.4153" layer="1"/>
+<text x="0" y="10.235" size="1.27" layer="25" align="bottom-center">&gt;NAME</text>
+<text x="0" y="-10.235" size="1.27" layer="27" align="top-center">&gt;VALUE</text>
+</package>
+<package name="CAPPRD550W110D1250H2500B" urn="urn:adsk.eagle:footprint:16290834/1" library_version="4">
+<description>Radial Polarized Capacitor, 5.50 mm pitch, 12.50 mm body diameter, 25.00 mm body height
+&lt;p&gt;Radial Polarized Capacitor package with 5.50 mm pitch (lead spacing), 1.10 mm lead diameter, 12.50 mm body diameter and 25.00 mm body height&lt;/p&gt;</description>
+<circle x="0" y="0" radius="6.25" width="0.12" layer="21"/>
+<circle x="0" y="0" radius="6.25" width="0.12" layer="51"/>
+<wire x1="-5.0164" y1="5.0165" x2="-4.2664" y2="5.0165" width="0.12" layer="21"/>
+<wire x1="-4.6414" y1="5.3915" x2="-4.6414" y2="4.6415" width="0.12" layer="21"/>
+<pad name="1" x="-2.75" y="0" drill="1.3" diameter="1.95"/>
+<pad name="2" x="2.75" y="0" drill="1.3" diameter="1.95"/>
+<text x="0" y="6.885" size="1.27" layer="25" align="bottom-center">&gt;NAME</text>
+<text x="0" y="-6.885" size="1.27" layer="27" align="top-center">&gt;VALUE</text>
+</package>
+<package name="CAPPRD550W60D1200H2000B" urn="urn:adsk.eagle:footprint:16290832/1" library_version="4">
+<description>Radial Polarized Capacitor, 5.50 mm pitch, 12.00 mm body diameter, 20.00 mm body height
+&lt;p&gt;Radial Polarized Capacitor package with 5.50 mm pitch (lead spacing), 0.60 mm lead diameter, 12.00 mm body diameter and 20.00 mm body height&lt;/p&gt;</description>
+<circle x="0" y="0" radius="6" width="0.12" layer="21"/>
+<circle x="0" y="0" radius="6" width="0.12" layer="51"/>
+<wire x1="-4.8397" y1="4.8397" x2="-4.0897" y2="4.8397" width="0.12" layer="21"/>
+<wire x1="-4.4647" y1="5.2147" x2="-4.4647" y2="4.4647" width="0.12" layer="21"/>
+<pad name="1" x="-2.75" y="0" drill="0.8" diameter="1.4"/>
+<pad name="2" x="2.75" y="0" drill="0.8" diameter="1.4"/>
+<text x="0" y="6.635" size="1.27" layer="25" align="bottom-center">&gt;NAME</text>
+<text x="0" y="-6.635" size="1.27" layer="27" align="top-center">&gt;VALUE</text>
+</package>
+<package name="CAPMP7443X430N" urn="urn:adsk.eagle:footprint:16290831/1" library_version="4">
+<description>Molded Body, 7.42 X 4.35 X 4.30 mm body
+&lt;p&gt;Molded Body package with body size 7.42 X 4.35 X 4.30 mm&lt;/p&gt;</description>
+<wire x1="3.825" y1="2.25" x2="-4.6458" y2="2.25" width="0.12" layer="21"/>
+<wire x1="-4.6458" y1="2.25" x2="-4.6458" y2="-2.25" width="0.12" layer="21"/>
+<wire x1="-4.6458" y1="-2.25" x2="3.825" y2="-2.25" width="0.12" layer="21"/>
+<wire x1="3.825" y1="-2.25" x2="-3.825" y2="-2.25" width="0.12" layer="51"/>
+<wire x1="-3.825" y1="-2.25" x2="-3.825" y2="2.25" width="0.12" layer="51"/>
+<wire x1="-3.825" y1="2.25" x2="3.825" y2="2.25" width="0.12" layer="51"/>
+<wire x1="3.825" y1="2.25" x2="3.825" y2="-2.25" width="0.12" layer="51"/>
+<smd name="1" x="-3.1655" y="0" dx="2.3326" dy="2.5153" layer="1"/>
+<smd name="2" x="3.1655" y="0" dx="2.3326" dy="2.5153" layer="1"/>
+<text x="0" y="2.885" size="1.27" layer="25" align="bottom-center">&gt;NAME</text>
+<text x="0" y="-2.885" size="1.27" layer="27" align="top-center">&gt;VALUE</text>
+</package>
+<package name="CAPPAD3410W80L3025D1825B" urn="urn:adsk.eagle:footprint:16290824/1" library_version="4">
+<description>Axial Polarized Capacitor, 34.10 mm pitch, 30.25 mm body length, 18.25 mm body diameter
+&lt;p&gt;Axial Polarized Capacitor package with 34.10 mm pitch (lead spacing), 0.80 mm lead diameter, 30.25 mm body length and 18.25 mm body diameter&lt;/p&gt;</description>
+<wire x1="-15.25" y1="9.25" x2="-15.25" y2="-9.25" width="0.12" layer="21"/>
+<wire x1="-15.25" y1="-9.25" x2="15.25" y2="-9.25" width="0.12" layer="21"/>
+<wire x1="15.25" y1="-9.25" x2="15.25" y2="9.25" width="0.12" layer="21"/>
+<wire x1="15.25" y1="9.25" x2="-15.25" y2="9.25" width="0.12" layer="21"/>
+<wire x1="-11.4375" y1="9.25" x2="-11.4375" y2="-9.25" width="0.12" layer="21"/>
+<wire x1="-15.25" y1="0" x2="-15.996" y2="0" width="0.12" layer="21"/>
+<wire x1="15.25" y1="0" x2="15.996" y2="0" width="0.12" layer="21"/>
+<wire x1="15.25" y1="-9.25" x2="-15.25" y2="-9.25" width="0.12" layer="51"/>
+<wire x1="-15.25" y1="-9.25" x2="-15.25" y2="9.25" width="0.12" layer="51"/>
+<wire x1="-15.25" y1="9.25" x2="15.25" y2="9.25" width="0.12" layer="51"/>
+<wire x1="15.25" y1="9.25" x2="15.25" y2="-9.25" width="0.12" layer="51"/>
+<pad name="1" x="-17.05" y="0" drill="1" diameter="1.6"/>
+<pad name="2" x="17.05" y="0" drill="1" diameter="1.6"/>
+<text x="0" y="9.885" size="1.27" layer="25" align="bottom-center">&gt;NAME</text>
+<text x="0" y="-9.885" size="1.27" layer="27" align="top-center">&gt;VALUE</text>
+</package>
+</packages>
+<packages3d>
+<package3d name="CAPC1005X60" urn="urn:adsk.eagle:package:16290895/2" type="model" library_version="4">
+<description>Chip, 1.00 X 0.50 X 0.60 mm body
+&lt;p&gt;Chip package with body size 1.00 X 0.50 X 0.60 mm&lt;/p&gt;</description>
+<packageinstances>
+<packageinstance name="CAPC1005X60"/>
+</packageinstances>
+</package3d>
+<package3d name="CAPC1110X102" urn="urn:adsk.eagle:package:16290904/2" type="model" library_version="4">
+<description>Chip, 1.17 X 1.02 X 1.02 mm body
+&lt;p&gt;Chip package with body size 1.17 X 1.02 X 1.02 mm&lt;/p&gt;</description>
+<packageinstances>
+<packageinstance name="CAPC1110X102"/>
+</packageinstances>
+</package3d>
+<package3d name="CAPC1608X85" urn="urn:adsk.eagle:package:16290898/2" type="model" library_version="4">
+<description>Chip, 1.60 X 0.80 X 0.85 mm body
+&lt;p&gt;Chip package with body size 1.60 X 0.80 X 0.85 mm&lt;/p&gt;</description>
+<packageinstances>
+<packageinstance name="CAPC1608X85"/>
+</packageinstances>
+</package3d>
+<package3d name="CAPC2012X110" urn="urn:adsk.eagle:package:16290897/2" type="model" library_version="4">
+<description>Chip, 2.00 X 1.25 X 1.10 mm body
+&lt;p&gt;Chip package with body size 2.00 X 1.25 X 1.10 mm&lt;/p&gt;</description>
+<packageinstances>
+<packageinstance name="CAPC2012X110"/>
+</packageinstances>
+</package3d>
+<package3d name="CAPC3216X135" urn="urn:adsk.eagle:package:16290893/2" type="model" library_version="4">
+<description>Chip, 3.20 X 1.60 X 1.35 mm body
+&lt;p&gt;Chip package with body size 3.20 X 1.60 X 1.35 mm&lt;/p&gt;</description>
+<packageinstances>
+<packageinstance name="CAPC3216X135"/>
+</packageinstances>
+</package3d>
+<package3d name="CAPC3225X135" urn="urn:adsk.eagle:package:16290903/2" type="model" library_version="4">
+<description>Chip, 3.20 X 2.50 X 1.35 mm body
+&lt;p&gt;Chip package with body size 3.20 X 2.50 X 1.35 mm&lt;/p&gt;</description>
+<packageinstances>
+<packageinstance name="CAPC3225X135"/>
+</packageinstances>
+</package3d>
+<package3d name="CAPC4532X135" urn="urn:adsk.eagle:package:16290900/2" type="model" library_version="4">
+<description>Chip, 4.50 X 3.20 X 1.35 mm body
+&lt;p&gt;Chip package with body size 4.50 X 3.20 X 1.35 mm&lt;/p&gt;</description>
+<packageinstances>
+<packageinstance name="CAPC4532X135"/>
+</packageinstances>
+</package3d>
+<package3d name="CAPM3216X180" urn="urn:adsk.eagle:package:16290894/2" type="model" library_version="4">
+<description>Molded Body, 3.20 X 1.60 X 1.80 mm body
+&lt;p&gt;Molded Body package with body size 3.20 X 1.60 X 1.80 mm&lt;/p&gt;</description>
+<packageinstances>
+<packageinstance name="CAPM3216X180"/>
+</packageinstances>
+</package3d>
+<package3d name="CAPM3528X210" urn="urn:adsk.eagle:package:16290902/2" type="model" library_version="4">
+<description>Molded Body, 3.50 X 2.80 X 2.10 mm body
+&lt;p&gt;Molded Body package with body size 3.50 X 2.80 X 2.10 mm&lt;/p&gt;</description>
+<packageinstances>
+<packageinstance name="CAPM3528X210"/>
+</packageinstances>
+</package3d>
+<package3d name="CAPM6032X280" urn="urn:adsk.eagle:package:16290896/2" type="model" library_version="4">
+<description>Molded Body, 6.00 X 3.20 X 2.80 mm body
+&lt;p&gt;Molded Body package with body size 6.00 X 3.20 X 2.80 mm&lt;/p&gt;</description>
+<packageinstances>
+<packageinstance name="CAPM6032X280"/>
+</packageinstances>
+</package3d>
+<package3d name="CAPM7343X310" urn="urn:adsk.eagle:package:16290891/2" type="model" library_version="4">
+<description>Molded Body, 7.30 X 4.30 X 3.10 mm body
+&lt;p&gt;Molded Body package with body size 7.30 X 4.30 X 3.10 mm&lt;/p&gt;</description>
+<packageinstances>
+<packageinstance name="CAPM7343X310"/>
+</packageinstances>
+</package3d>
+<package3d name="CAPC4564X110L" urn="urn:adsk.eagle:package:16290887/3" type="model" library_version="4">
+<description>Chip, 4.50 X 6.40 X 1.10 mm body
+&lt;p&gt;Chip package with body size 4.50 X 6.40 X 1.10 mm&lt;/p&gt;</description>
+<packageinstances>
+<packageinstance name="CAPC4564X110"/>
+</packageinstances>
+</package3d>
+<package3d name="CAPRD550W60D1025H1250B" urn="urn:adsk.eagle:package:16290858/2" type="model" library_version="4">
+<description>Radial Non-Polarized Capacitor, 5.50 mm pitch, 10.25 mm body diameter, 12.50 mm body height
+&lt;p&gt;Radial Non-Polarized Capacitor package with 5.50 mm pitch (lead spacing), 0.60 mm lead diameter, 10.25 mm body diameter and 12.50 mm body height&lt;/p&gt;</description>
+<packageinstances>
+<packageinstance name="CAPRD550W60D1025H1250B"/>
+</packageinstances>
+</package3d>
+<package3d name="CAPRD2261W240D5080H5555B" urn="urn:adsk.eagle:package:16290864/2" type="model" library_version="4">
+<description>Radial Non-Polarized Capacitor, 22.61 mm pitch, 50.80 mm body diameter, 55.55 mm body height
+&lt;p&gt;Radial Non-Polarized Capacitor package with 22.61 mm pitch (lead spacing), 2.40 mm lead diameter, 50.80 mm body diameter and 55.55 mm body height&lt;/p&gt;</description>
+<packageinstances>
+<packageinstance name="CAPRD2261W240D5080H5555B"/>
+</packageinstances>
+</package3d>
+<package3d name="CAPMP3216X180N" urn="urn:adsk.eagle:package:16290884/1" type="model" library_version="4">
+<description>Molded Body, 3.20 X 1.60 X 1.80 mm body
+&lt;p&gt;Molded Body package with body size 3.20 X 1.60 X 1.80 mm&lt;/p&gt;</description>
+<packageinstances>
+<packageinstance name="CAPMP3216X180N"/>
+</packageinstances>
+</package3d>
+<package3d name="CAPMP3528X210N" urn="urn:adsk.eagle:package:16290901/1" type="model" library_version="4">
+<description>Molded Body, 3.50 X 2.80 X 2.10 mm body
+&lt;p&gt;Molded Body package with body size 3.50 X 2.80 X 2.10 mm&lt;/p&gt;</description>
+<packageinstances>
+<packageinstance name="CAPMP3528X210N"/>
+</packageinstances>
+</package3d>
+<package3d name="CAPMP6032X280N" urn="urn:adsk.eagle:package:16290892/1" type="model" library_version="4">
+<description>Molded Body, 6.00 X 3.20 X 2.80 mm body
+&lt;p&gt;Molded Body package with body size 6.00 X 3.20 X 2.80 mm&lt;/p&gt;</description>
+<packageinstances>
+<packageinstance name="CAPMP6032X280N"/>
+</packageinstances>
+</package3d>
+<package3d name="CAPMP7343X310N" urn="urn:adsk.eagle:package:16290885/1" type="model" library_version="4">
+<description>Molded Body, 7.30 X 4.30 X 3.10 mm body
+&lt;p&gt;Molded Body package with body size 7.30 X 4.30 X 3.10 mm&lt;/p&gt;</description>
+<packageinstances>
+<packageinstance name="CAPMP7343X310N"/>
+</packageinstances>
+</package3d>
+<package3d name="CAPPRD508W65D1000H1100B" urn="urn:adsk.eagle:package:16290899/1" type="model" library_version="4">
+<description>Radial Polarized Capacitor, 5.08 mm pitch, 10.00 mm body diameter, 11.00 mm body height
+&lt;p&gt;Radial Polarized Capacitor package with 5.08 mm pitch (lead spacing), 0.65 mm lead diameter, 10.00 mm body diameter and 11.00 mm body height&lt;/p&gt;</description>
+<packageinstances>
+<packageinstance name="CAPPRD508W65D1000H1100B"/>
+</packageinstances>
+</package3d>
+<package3d name="CAPAE1030X1050N" urn="urn:adsk.eagle:package:16290882/1" type="model" library_version="4">
+<description>ECAP (Aluminum Electrolytic Capacitor), 10.30 X 10.50 mm body
+&lt;p&gt;ECAP (Aluminum Electrolytic Capacitor) package with body size 10.30 X 10.50 mm&lt;/p&gt;</description>
+<packageinstances>
+<packageinstance name="CAPAE1030X1050N"/>
+</packageinstances>
+</package3d>
+<package3d name="CAPAE830X1050N" urn="urn:adsk.eagle:package:16290889/1" type="model" library_version="4">
+<description>ECAP (Aluminum Electrolytic Capacitor), 8.30 X 10.50 mm body
+&lt;p&gt;ECAP (Aluminum Electrolytic Capacitor) package with body size 8.30 X 10.50 mm&lt;/p&gt;</description>
+<packageinstances>
+<packageinstance name="CAPAE830X1050N"/>
+</packageinstances>
+</package3d>
+<package3d name="CAPPRD1000W100D2275H3200B" urn="urn:adsk.eagle:package:16290888/1" type="model" library_version="4">
+<description>Radial Polarized Capacitor, 10.00 mm pitch, 22.75 mm body diameter, 32.00 mm body height
+&lt;p&gt;Radial Polarized Capacitor package with 10.00 mm pitch (lead spacing), 1.00 mm lead diameter, 22.75 mm body diameter and 32.00 mm body height&lt;/p&gt;</description>
+<packageinstances>
+<packageinstance name="CAPPRD1000W100D2275H3200B"/>
+</packageinstances>
+</package3d>
+<package3d name="CAPAE1905X1660N" urn="urn:adsk.eagle:package:16290872/1" type="model" library_version="4">
+<description>ECAP (Aluminum Electrolytic Capacitor), 19.05 X 16.60 mm body
+&lt;p&gt;ECAP (Aluminum Electrolytic Capacitor) package with body size 19.05 X 16.60 mm&lt;/p&gt;</description>
+<packageinstances>
+<packageinstance name="CAPAE1905X1660N"/>
+</packageinstances>
+</package3d>
+<package3d name="CAPPRD550W110D1250H2500B" urn="urn:adsk.eagle:package:16290890/1" type="model" library_version="4">
+<description>Radial Polarized Capacitor, 5.50 mm pitch, 12.50 mm body diameter, 25.00 mm body height
+&lt;p&gt;Radial Polarized Capacitor package with 5.50 mm pitch (lead spacing), 1.10 mm lead diameter, 12.50 mm body diameter and 25.00 mm body height&lt;/p&gt;</description>
+<packageinstances>
+<packageinstance name="CAPPRD550W110D1250H2500B"/>
+</packageinstances>
+</package3d>
+<package3d name="CAPPRD550W60D1200H2000B" urn="urn:adsk.eagle:package:16290874/1" type="model" library_version="4">
+<description>Radial Polarized Capacitor, 5.50 mm pitch, 12.00 mm body diameter, 20.00 mm body height
+&lt;p&gt;Radial Polarized Capacitor package with 5.50 mm pitch (lead spacing), 0.60 mm lead diameter, 12.00 mm body diameter and 20.00 mm body height&lt;/p&gt;</description>
+<packageinstances>
+<packageinstance name="CAPPRD550W60D1200H2000B"/>
+</packageinstances>
+</package3d>
+<package3d name="CAPMP7443X430N" urn="urn:adsk.eagle:package:16290866/1" type="model" library_version="4">
+<description>Molded Body, 7.42 X 4.35 X 4.30 mm body
+&lt;p&gt;Molded Body package with body size 7.42 X 4.35 X 4.30 mm&lt;/p&gt;</description>
+<packageinstances>
+<packageinstance name="CAPMP7443X430N"/>
+</packageinstances>
+</package3d>
+<package3d name="CAPPAD3410W80L3025D1825B" urn="urn:adsk.eagle:package:16290868/1" type="model" library_version="4">
+<description>Axial Polarized Capacitor, 34.10 mm pitch, 30.25 mm body length, 18.25 mm body diameter
+&lt;p&gt;Axial Polarized Capacitor package with 34.10 mm pitch (lead spacing), 0.80 mm lead diameter, 30.25 mm body length and 18.25 mm body diameter&lt;/p&gt;</description>
+<packageinstances>
+<packageinstance name="CAPPAD3410W80L3025D1825B"/>
+</packageinstances>
+</package3d>
+</packages3d>
+<symbols>
+<symbol name="C" urn="urn:adsk.eagle:symbol:16290820/1" library_version="4">
+<description>Capacitor</description>
+<rectangle x1="-2.032" y1="-2.032" x2="2.032" y2="-1.524" layer="94"/>
+<rectangle x1="-2.032" y1="-1.016" x2="2.032" y2="-0.508" layer="94"/>
+<wire x1="0" y1="0" x2="0" y2="-0.508" width="0.1524" layer="94"/>
+<wire x1="0" y1="-2.54" x2="0" y2="-2.032" width="0.1524" layer="94"/>
+<pin name="1" x="0" y="2.54" visible="off" length="short" direction="pas" swaplevel="1" rot="R270"/>
+<pin name="2" x="0" y="-5.08" visible="off" length="short" direction="pas" swaplevel="1" rot="R90"/>
+<text x="2.54" y="2.54" size="1.778" layer="95">&gt;NAME</text>
+<text x="2.54" y="-2.54" size="1.778" layer="97">&gt;SPICEMODEL</text>
+<text x="2.54" y="0" size="1.778" layer="96">&gt;VALUE</text>
+<text x="2.54" y="-5.08" size="1.778" layer="97">&gt;SPICEEXTRA</text>
+</symbol>
+<symbol name="CPOL" urn="urn:adsk.eagle:symbol:16290823/1" library_version="4">
+<wire x1="-1.524" y1="-0.889" x2="1.524" y2="-0.889" width="0.254" layer="94"/>
+<wire x1="1.524" y1="-0.889" x2="1.524" y2="0" width="0.254" layer="94"/>
+<wire x1="-1.524" y1="0" x2="-1.524" y2="-0.889" width="0.254" layer="94"/>
+<wire x1="-1.524" y1="0" x2="1.524" y2="0" width="0.254" layer="94"/>
+<text x="1.143" y="0.4826" size="1.778" layer="95">&gt;NAME</text>
+<text x="-0.5842" y="0.4064" size="1.27" layer="94" rot="R90">+</text>
+<text x="1.143" y="-4.5974" size="1.778" layer="96">&gt;VALUE</text>
+<rectangle x1="-1.651" y1="-2.54" x2="1.651" y2="-1.651" layer="94"/>
+<pin name="-" x="0" y="-5.08" visible="off" length="short" direction="pas" rot="R90"/>
+<pin name="+" x="0" y="2.54" visible="off" length="short" direction="pas" rot="R270"/>
+</symbol>
+</symbols>
+<devicesets>
+<deviceset name="C" urn="urn:adsk.eagle:component:16290909/4" prefix="C" uservalue="yes" library_version="4">
+<description>&lt;B&gt;Capacitor - Generic</description>
+<gates>
+<gate name="G$1" symbol="C" x="0" y="0"/>
+</gates>
+<devices>
+<device name="CHIP-0402(1005-METRIC)" package="CAPC1005X60">
+<connects>
+<connect gate="G$1" pin="1" pad="1"/>
+<connect gate="G$1" pin="2" pad="2"/>
+</connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16290895/2"/>
+</package3dinstances>
+<technologies>
+<technology name="_">
+<attribute name="CATEGORY" value="Capacitor" constant="no"/>
+<attribute name="MANUFACTURER" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OPERATING_TEMP" value="" constant="no"/>
+<attribute name="PART_STATUS" value="" constant="no"/>
+<attribute name="ROHS_COMPLIANT" value="" constant="no"/>
+<attribute name="SERIES" value="" constant="no"/>
+<attribute name="SUB-CATEGORY" value="" constant="no"/>
+<attribute name="THERMALLOSS" value="" constant="no"/>
+<attribute name="TYPE" value="" constant="no"/>
+<attribute name="VALUE" value="" constant="no"/>
+<attribute name="VOLTAGE_RATING" value="" constant="no"/>
+</technology>
+</technologies>
+</device>
+<device name="CHIP-0504(1310-METRIC)" package="CAPC1110X102">
+<connects>
+<connect gate="G$1" pin="1" pad="1"/>
+<connect gate="G$1" pin="2" pad="2"/>
+</connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16290904/2"/>
+</package3dinstances>
+<technologies>
+<technology name="_">
+<attribute name="CATEGORY" value="Capacitor" constant="no"/>
+<attribute name="MANUFACTURER" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OPERATING_TEMP" value="" constant="no"/>
+<attribute name="PART_STATUS" value="" constant="no"/>
+<attribute name="ROHS_COMPLIANT" value="" constant="no"/>
+<attribute name="SERIES" value="" constant="no"/>
+<attribute name="SUB-CATEGORY" value="" constant="no"/>
+<attribute name="THERMALLOSS" value="" constant="no"/>
+<attribute name="TYPE" value="" constant="no"/>
+<attribute name="VALUE" value="" constant="no"/>
+<attribute name="VOLTAGE_RATING" value="" constant="no"/>
+</technology>
+</technologies>
+</device>
+<device name="CHIP-0603(1608-METRIC)" package="CAPC1608X85">
+<connects>
+<connect gate="G$1" pin="1" pad="1"/>
+<connect gate="G$1" pin="2" pad="2"/>
+</connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16290898/2"/>
+</package3dinstances>
+<technologies>
+<technology name="_">
+<attribute name="CATEGORY" value="Capacitor" constant="no"/>
+<attribute name="MANUFACTURER" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OPERATING_TEMP" value="" constant="no"/>
+<attribute name="PART_STATUS" value="" constant="no"/>
+<attribute name="ROHS_COMPLIANT" value="" constant="no"/>
+<attribute name="SERIES" value="" constant="no"/>
+<attribute name="SUB-CATEGORY" value="" constant="no"/>
+<attribute name="THERMALLOSS" value="" constant="no"/>
+<attribute name="TYPE" value="" constant="no"/>
+<attribute name="VALUE" value="" constant="no"/>
+<attribute name="VOLTAGE_RATING" value="" constant="no"/>
+</technology>
+</technologies>
+</device>
+<device name="CHIP-0805(2012-METRIC)" package="CAPC2012X110">
+<connects>
+<connect gate="G$1" pin="1" pad="1"/>
+<connect gate="G$1" pin="2" pad="2"/>
+</connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16290897/2"/>
+</package3dinstances>
+<technologies>
+<technology name="_">
+<attribute name="CATEGORY" value="Capacitor" constant="no"/>
+<attribute name="MANUFACTURER" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OPERATING_TEMP" value="" constant="no"/>
+<attribute name="PART_STATUS" value="" constant="no"/>
+<attribute name="ROHS_COMPLIANT" value="" constant="no"/>
+<attribute name="SERIES" value="" constant="no"/>
+<attribute name="SUB-CATEGORY" value="" constant="no"/>
+<attribute name="THERMALLOSS" value="" constant="no"/>
+<attribute name="TYPE" value="" constant="no"/>
+<attribute name="VALUE" value="" constant="no"/>
+<attribute name="VOLTAGE_RATING" value="" constant="no"/>
+</technology>
+</technologies>
+</device>
+<device name="CHIP-1206(3216-METRIC)" package="CAPC3216X135">
+<connects>
+<connect gate="G$1" pin="1" pad="1"/>
+<connect gate="G$1" pin="2" pad="2"/>
+</connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16290893/2"/>
+</package3dinstances>
+<technologies>
+<technology name="_">
+<attribute name="CATEGORY" value="Capacitor" constant="no"/>
+<attribute name="MANUFACTURER" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OPERATING_TEMP" value="" constant="no"/>
+<attribute name="PART_STATUS" value="" constant="no"/>
+<attribute name="ROHS_COMPLIANT" value="" constant="no"/>
+<attribute name="SERIES" value="" constant="no"/>
+<attribute name="SUB-CATEGORY" value="" constant="no"/>
+<attribute name="THERMALLOSS" value="" constant="no"/>
+<attribute name="TYPE" value="" constant="no"/>
+<attribute name="VALUE" value="" constant="no"/>
+<attribute name="VOLTAGE_RATING" value="" constant="no"/>
+</technology>
+</technologies>
+</device>
+<device name="CHIP-1210(3225-METRIC)" package="CAPC3225X135">
+<connects>
+<connect gate="G$1" pin="1" pad="1"/>
+<connect gate="G$1" pin="2" pad="2"/>
+</connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16290903/2"/>
+</package3dinstances>
+<technologies>
+<technology name="_">
+<attribute name="CATEGORY" value="Capacitor" constant="no"/>
+<attribute name="MANUFACTURER" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OPERATING_TEMP" value="" constant="no"/>
+<attribute name="PART_STATUS" value="" constant="no"/>
+<attribute name="ROHS_COMPLIANT" value="" constant="no"/>
+<attribute name="SERIES" value="" constant="no"/>
+<attribute name="SUB-CATEGORY" value="" constant="no"/>
+<attribute name="THERMALLOSS" value="" constant="no"/>
+<attribute name="TYPE" value="" constant="no"/>
+<attribute name="VALUE" value="" constant="no"/>
+<attribute name="VOLTAGE_RATING" value="" constant="no"/>
+</technology>
+</technologies>
+</device>
+<device name="CHIP-1812(4532-METRIC)" package="CAPC4532X135">
+<connects>
+<connect gate="G$1" pin="1" pad="1"/>
+<connect gate="G$1" pin="2" pad="2"/>
+</connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16290900/2"/>
+</package3dinstances>
+<technologies>
+<technology name="_">
+<attribute name="CATEGORY" value="Capacitor" constant="no"/>
+<attribute name="MANUFACTURER" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OPERATING_TEMP" value="" constant="no"/>
+<attribute name="PART_STATUS" value="" constant="no"/>
+<attribute name="ROHS_COMPLIANT" value="" constant="no"/>
+<attribute name="SERIES" value="" constant="no"/>
+<attribute name="SUB-CATEGORY" value="" constant="no"/>
+<attribute name="THERMALLOSS" value="" constant="no"/>
+<attribute name="TYPE" value="" constant="no"/>
+<attribute name="VALUE" value="" constant="no"/>
+<attribute name="VOLTAGE_RATING" value="" constant="no"/>
+</technology>
+</technologies>
+</device>
+<device name="TANTALUM-1206(3216-METRIC)" package="CAPM3216X180">
+<connects>
+<connect gate="G$1" pin="1" pad="1"/>
+<connect gate="G$1" pin="2" pad="2"/>
+</connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16290894/2"/>
+</package3dinstances>
+<technologies>
+<technology name="_">
+<attribute name="CATEGORY" value="Capacitor" constant="no"/>
+<attribute name="MANUFACTURER" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OPERATING_TEMP" value="" constant="no"/>
+<attribute name="PART_STATUS" value="" constant="no"/>
+<attribute name="ROHS_COMPLIANT" value="" constant="no"/>
+<attribute name="SERIES" value="" constant="no"/>
+<attribute name="SUB-CATEGORY" value="" constant="no"/>
+<attribute name="THERMALLOSS" value="" constant="no"/>
+<attribute name="TYPE" value="" constant="no"/>
+<attribute name="VALUE" value="" constant="no"/>
+<attribute name="VOLTAGE_RATING" value="" constant="no"/>
+</technology>
+</technologies>
+</device>
+<device name="TANTALUM-1411(3528-METRIC)" package="CAPM3528X210">
+<connects>
+<connect gate="G$1" pin="1" pad="1"/>
+<connect gate="G$1" pin="2" pad="2"/>
+</connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16290902/2"/>
+</package3dinstances>
+<technologies>
+<technology name="_">
+<attribute name="CATEGORY" value="Capacitor" constant="no"/>
+<attribute name="MANUFACTURER" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OPERATING_TEMP" value="" constant="no"/>
+<attribute name="PART_STATUS" value="" constant="no"/>
+<attribute name="ROHS_COMPLIANT" value="" constant="no"/>
+<attribute name="SERIES" value="" constant="no"/>
+<attribute name="SUB-CATEGORY" value="" constant="no"/>
+<attribute name="THERMALLOSS" value="" constant="no"/>
+<attribute name="TYPE" value="" constant="no"/>
+<attribute name="VALUE" value="" constant="no"/>
+<attribute name="VOLTAGE_RATING" value="" constant="no"/>
+</technology>
+</technologies>
+</device>
+<device name="TANTALUM-2412(6032-METRIC)" package="CAPM6032X280">
+<connects>
+<connect gate="G$1" pin="1" pad="1"/>
+<connect gate="G$1" pin="2" pad="2"/>
+</connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16290896/2"/>
+</package3dinstances>
+<technologies>
+<technology name="_">
+<attribute name="CATEGORY" value="Capacitor" constant="no"/>
+<attribute name="MANUFACTURER" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OPERATING_TEMP" value="" constant="no"/>
+<attribute name="PART_STATUS" value="" constant="no"/>
+<attribute name="ROHS_COMPLIANT" value="" constant="no"/>
+<attribute name="SERIES" value="" constant="no"/>
+<attribute name="SUB-CATEGORY" value="" constant="no"/>
+<attribute name="THERMALLOSS" value="" constant="no"/>
+<attribute name="TYPE" value="" constant="no"/>
+<attribute name="VALUE" value="" constant="no"/>
+<attribute name="VOLTAGE_RATING" value="" constant="no"/>
+</technology>
+</technologies>
+</device>
+<device name="TANTALUM-2917(7343-METRIC)" package="CAPM7343X310">
+<connects>
+<connect gate="G$1" pin="1" pad="1"/>
+<connect gate="G$1" pin="2" pad="2"/>
+</connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16290891/2"/>
+</package3dinstances>
+<technologies>
+<technology name="_">
+<attribute name="CATEGORY" value="Capacitor" constant="no"/>
+<attribute name="MANUFACTURER" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OPERATING_TEMP" value="" constant="no"/>
+<attribute name="PART_STATUS" value="" constant="no"/>
+<attribute name="ROHS_COMPLIANT" value="" constant="no"/>
+<attribute name="SERIES" value="" constant="no"/>
+<attribute name="SUB-CATEGORY" value="" constant="no"/>
+<attribute name="THERMALLOSS" value="" constant="no"/>
+<attribute name="TYPE" value="" constant="no"/>
+<attribute name="VALUE" value="" constant="no"/>
+<attribute name="VOLTAGE_RATING" value="" constant="no"/>
+</technology>
+</technologies>
+</device>
+<device name="CHIP-1825(4564-METRIC)" package="CAPC4564X110">
+<connects>
+<connect gate="G$1" pin="1" pad="1"/>
+<connect gate="G$1" pin="2" pad="2"/>
+</connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16290887/3"/>
+</package3dinstances>
+<technologies>
+<technology name="_">
+<attribute name="CATEGORY" value="Capacitor" constant="no"/>
+<attribute name="MANUFACTURER" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OPERATING_TEMP" value="" constant="no"/>
+<attribute name="PART_STATUS" value="" constant="no"/>
+<attribute name="ROHS_COMPLIANT" value="" constant="no"/>
+<attribute name="SERIES" value="" constant="no"/>
+<attribute name="SUB-CATEGORY" value="" constant="no"/>
+<attribute name="THERMALLOSS" value="" constant="no"/>
+<attribute name="TYPE" value="" constant="no"/>
+<attribute name="VALUE" value="" constant="no"/>
+<attribute name="VOLTAGE_RATING" value="" constant="no"/>
+</technology>
+</technologies>
+</device>
+<device name="RADIAL-12.5MM-DIA" package="CAPRD550W60D1025H1250B">
+<connects>
+<connect gate="G$1" pin="1" pad="1"/>
+<connect gate="G$1" pin="2" pad="2"/>
+</connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16290858/2"/>
+</package3dinstances>
+<technologies>
+<technology name="_">
+<attribute name="CATEGORY" value="Capacitor" constant="no"/>
+<attribute name="MANUFACTURER" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OPERATING_TEMP" value="" constant="no"/>
+<attribute name="PART_STATUS" value="" constant="no"/>
+<attribute name="ROHS_COMPLIANT" value="" constant="no"/>
+<attribute name="SERIES" value="" constant="no"/>
+<attribute name="SUB-CATEGORY" value="" constant="no"/>
+<attribute name="THERMALLOSS" value="" constant="no"/>
+<attribute name="TYPE" value="" constant="no"/>
+<attribute name="VALUE" value="" constant="no"/>
+<attribute name="VOLTAGE_RATING" value="" constant="no"/>
+</technology>
+</technologies>
+</device>
+<device name="RADIAL-55.5MM-DIA" package="CAPRD2261W240D5080H5555B">
+<connects>
+<connect gate="G$1" pin="1" pad="1"/>
+<connect gate="G$1" pin="2" pad="2"/>
+</connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16290864/2"/>
+</package3dinstances>
+<technologies>
+<technology name="_">
+<attribute name="CATEGORY" value="Capacitor" constant="no"/>
+<attribute name="MANUFACTURER" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OPERATING_TEMP" value="" constant="no"/>
+<attribute name="PART_STATUS" value="" constant="no"/>
+<attribute name="ROHS_COMPLIANT" value="" constant="no"/>
+<attribute name="SERIES" value="" constant="no"/>
+<attribute name="SUB-CATEGORY" value="" constant="no"/>
+<attribute name="THERMALLOSS" value="" constant="no"/>
+<attribute name="TYPE" value="" constant="no"/>
+<attribute name="VALUE" value="" constant="no"/>
+<attribute name="VOLTAGE_RATING" value="" constant="no"/>
+</technology>
+</technologies>
+</device>
+</devices>
+<spice>
+<pinmapping spiceprefix="C">
+<pinmap gate="G$1" pin="1" pinorder="1"/>
+<pinmap gate="G$1" pin="2" pinorder="2"/>
+</pinmapping>
+</spice>
+</deviceset>
+<deviceset name="C-POL" urn="urn:adsk.eagle:component:16290908/4" prefix="C" uservalue="yes" library_version="4">
+<description>&lt;B&gt;Capacitor Polarised - Generic</description>
+<gates>
+<gate name="G$1" symbol="CPOL" x="0" y="0"/>
+</gates>
+<devices>
+<device name="TANTALUM-1206(3216-METRIC)" package="CAPMP3216X180N">
+<connects>
+<connect gate="G$1" pin="+" pad="1"/>
+<connect gate="G$1" pin="-" pad="2"/>
+</connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16290884/1"/>
+</package3dinstances>
+<technologies>
+<technology name="_">
+<attribute name="CATEGORY" value="Capacitor" constant="no"/>
+<attribute name="MANUFACTURER" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OPERATING_TEMP" value="" constant="no"/>
+<attribute name="PART_STATUS" value="" constant="no"/>
+<attribute name="ROHS_COMPLIANT" value="" constant="no"/>
+<attribute name="SERIES" value="" constant="no"/>
+<attribute name="SUB-CATEGORY" value="" constant="no"/>
+<attribute name="THERMALLOSS" value="" constant="no"/>
+<attribute name="TYPE" value="" constant="no"/>
+<attribute name="VALUE" value="" constant="no"/>
+<attribute name="VOLTAGE_RATING" value="" constant="no"/>
+</technology>
+</technologies>
+</device>
+<device name="TANTALUM-1411(3528-METRIC)" package="CAPMP3528X210N">
+<connects>
+<connect gate="G$1" pin="+" pad="1"/>
+<connect gate="G$1" pin="-" pad="2"/>
+</connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16290901/1"/>
+</package3dinstances>
+<technologies>
+<technology name="_">
+<attribute name="CATEGORY" value="Capacitor" constant="no"/>
+<attribute name="MANUFACTURER" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OPERATING_TEMP" value="" constant="no"/>
+<attribute name="PART_STATUS" value="" constant="no"/>
+<attribute name="ROHS_COMPLIANT" value="" constant="no"/>
+<attribute name="SERIES" value="" constant="no"/>
+<attribute name="SUB-CATEGORY" value="" constant="no"/>
+<attribute name="THERMALLOSS" value="" constant="no"/>
+<attribute name="TYPE" value="" constant="no"/>
+<attribute name="VALUE" value="" constant="no"/>
+<attribute name="VOLTAGE_RATING" value="" constant="no"/>
+</technology>
+</technologies>
+</device>
+<device name="TANTALUM-2412(6032-METRIC)" package="CAPMP6032X280N">
+<connects>
+<connect gate="G$1" pin="+" pad="1"/>
+<connect gate="G$1" pin="-" pad="2"/>
+</connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16290892/1"/>
+</package3dinstances>
+<technologies>
+<technology name="_">
+<attribute name="CATEGORY" value="Capacitor" constant="no"/>
+<attribute name="MANUFACTURER" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OPERATING_TEMP" value="" constant="no"/>
+<attribute name="PART_STATUS" value="" constant="no"/>
+<attribute name="ROHS_COMPLIANT" value="" constant="no"/>
+<attribute name="SERIES" value="" constant="no"/>
+<attribute name="SUB-CATEGORY" value="" constant="no"/>
+<attribute name="THERMALLOSS" value="" constant="no"/>
+<attribute name="TYPE" value="" constant="no"/>
+<attribute name="VALUE" value="" constant="no"/>
+<attribute name="VOLTAGE_RATING" value="" constant="no"/>
+</technology>
+</technologies>
+</device>
+<device name="TANTALUM-2917(7343-METRIC)" package="CAPMP7343X310N">
+<connects>
+<connect gate="G$1" pin="+" pad="1"/>
+<connect gate="G$1" pin="-" pad="2"/>
+</connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16290885/1"/>
+</package3dinstances>
+<technologies>
+<technology name="_">
+<attribute name="CATEGORY" value="Capacitor" constant="no"/>
+<attribute name="MANUFACTURER" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OPERATING_TEMP" value="" constant="no"/>
+<attribute name="PART_STATUS" value="" constant="no"/>
+<attribute name="ROHS_COMPLIANT" value="" constant="no"/>
+<attribute name="SERIES" value="" constant="no"/>
+<attribute name="SUB-CATEGORY" value="" constant="no"/>
+<attribute name="THERMALLOSS" value="" constant="no"/>
+<attribute name="TYPE" value="" constant="no"/>
+<attribute name="VALUE" value="" constant="no"/>
+<attribute name="VOLTAGE_RATING" value="" constant="no"/>
+</technology>
+</technologies>
+</device>
+<device name="RADIAL-11MM-DIA" package="CAPPRD508W65D1000H1100B">
+<connects>
+<connect gate="G$1" pin="+" pad="1"/>
+<connect gate="G$1" pin="-" pad="2"/>
+</connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16290899/1"/>
+</package3dinstances>
+<technologies>
+<technology name="_">
+<attribute name="CATEGORY" value="Capacitor" constant="no"/>
+<attribute name="MANUFACTURER" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OPERATING_TEMP" value="" constant="no"/>
+<attribute name="PART_STATUS" value="" constant="no"/>
+<attribute name="ROHS_COMPLIANT" value="" constant="no"/>
+<attribute name="SERIES" value="" constant="no"/>
+<attribute name="SUB-CATEGORY" value="" constant="no"/>
+<attribute name="THERMALLOSS" value="" constant="no"/>
+<attribute name="TYPE" value="" constant="no"/>
+<attribute name="VALUE" value="" constant="no"/>
+<attribute name="VOLTAGE_RATING" value="" constant="no"/>
+</technology>
+</technologies>
+</device>
+<device name="ECAP-10.5MM" package="CAPAE1030X1050N">
+<connects>
+<connect gate="G$1" pin="+" pad="1"/>
+<connect gate="G$1" pin="-" pad="2"/>
+</connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16290882/1"/>
+</package3dinstances>
+<technologies>
+<technology name="_">
+<attribute name="CATEGORY" value="Capacitor" constant="no"/>
+<attribute name="MANUFACTURER" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OPERATING_TEMP" value="" constant="no"/>
+<attribute name="PART_STATUS" value="" constant="no"/>
+<attribute name="ROHS_COMPLIANT" value="" constant="no"/>
+<attribute name="SERIES" value="" constant="no"/>
+<attribute name="SUB-CATEGORY" value="" constant="no"/>
+<attribute name="THERMALLOSS" value="" constant="no"/>
+<attribute name="TYPE" value="" constant="no"/>
+<attribute name="VALUE" value="" constant="no"/>
+<attribute name="VOLTAGE_RATING" value="" constant="no"/>
+</technology>
+</technologies>
+</device>
+<device name="ECAP-8.5MM" package="CAPAE830X1050N">
+<connects>
+<connect gate="G$1" pin="+" pad="1"/>
+<connect gate="G$1" pin="-" pad="2"/>
+</connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16290889/1"/>
+</package3dinstances>
+<technologies>
+<technology name="_">
+<attribute name="CATEGORY" value="Capacitor" constant="no"/>
+<attribute name="MANUFACTURER" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OPERATING_TEMP" value="" constant="no"/>
+<attribute name="PART_STATUS" value="" constant="no"/>
+<attribute name="ROHS_COMPLIANT" value="" constant="no"/>
+<attribute name="SERIES" value="" constant="no"/>
+<attribute name="SUB-CATEGORY" value="" constant="no"/>
+<attribute name="THERMALLOSS" value="" constant="no"/>
+<attribute name="TYPE" value="" constant="no"/>
+<attribute name="VALUE" value="" constant="no"/>
+<attribute name="VOLTAGE_RATING" value="" constant="no"/>
+</technology>
+</technologies>
+</device>
+<device name="RADIAL-32MM-DIA" package="CAPPRD1000W100D2275H3200B">
+<connects>
+<connect gate="G$1" pin="+" pad="1"/>
+<connect gate="G$1" pin="-" pad="2"/>
+</connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16290888/1"/>
+</package3dinstances>
+<technologies>
+<technology name="_">
+<attribute name="CATEGORY" value="Capacitor" constant="no"/>
+<attribute name="MANUFACTURER" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OPERATING_TEMP" value="" constant="no"/>
+<attribute name="PART_STATUS" value="" constant="no"/>
+<attribute name="ROHS_COMPLIANT" value="" constant="no"/>
+<attribute name="SERIES" value="" constant="no"/>
+<attribute name="SUB-CATEGORY" value="" constant="no"/>
+<attribute name="THERMALLOSS" value="" constant="no"/>
+<attribute name="TYPE" value="" constant="no"/>
+<attribute name="VALUE" value="" constant="no"/>
+<attribute name="VOLTAGE_RATING" value="" constant="no"/>
+</technology>
+</technologies>
+</device>
+<device name="ECAP-19.2MM" package="CAPAE1905X1660N">
+<connects>
+<connect gate="G$1" pin="+" pad="1"/>
+<connect gate="G$1" pin="-" pad="2"/>
+</connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16290872/1"/>
+</package3dinstances>
+<technologies>
+<technology name="_">
+<attribute name="CATEGORY" value="Capacitor" constant="no"/>
+<attribute name="MANUFACTURER" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OPERATING_TEMP" value="" constant="no"/>
+<attribute name="PART_STATUS" value="" constant="no"/>
+<attribute name="ROHS_COMPLIANT" value="" constant="no"/>
+<attribute name="SERIES" value="" constant="no"/>
+<attribute name="SUB-CATEGORY" value="" constant="no"/>
+<attribute name="THERMALLOSS" value="" constant="no"/>
+<attribute name="TYPE" value="" constant="no"/>
+<attribute name="VALUE" value="" constant="no"/>
+<attribute name="VOLTAGE_RATING" value="" constant="no"/>
+</technology>
+</technologies>
+</device>
+<device name="RADIAL-25MM-DIA" package="CAPPRD550W110D1250H2500B">
+<connects>
+<connect gate="G$1" pin="+" pad="1"/>
+<connect gate="G$1" pin="-" pad="2"/>
+</connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16290890/1"/>
+</package3dinstances>
+<technologies>
+<technology name="_">
+<attribute name="CATEGORY" value="Capacitor" constant="no"/>
+<attribute name="MANUFACTURER" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OPERATING_TEMP" value="" constant="no"/>
+<attribute name="PART_STATUS" value="" constant="no"/>
+<attribute name="ROHS_COMPLIANT" value="" constant="no"/>
+<attribute name="SERIES" value="" constant="no"/>
+<attribute name="SUB-CATEGORY" value="" constant="no"/>
+<attribute name="THERMALLOSS" value="" constant="no"/>
+<attribute name="TYPE" value="" constant="no"/>
+<attribute name="VALUE" value="" constant="no"/>
+<attribute name="VOLTAGE_RATING" value="" constant="no"/>
+</technology>
+</technologies>
+</device>
+<device name="RADIAL-20MM-DIA" package="CAPPRD550W60D1200H2000B">
+<connects>
+<connect gate="G$1" pin="+" pad="1"/>
+<connect gate="G$1" pin="-" pad="2"/>
+</connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16290874/1"/>
+</package3dinstances>
+<technologies>
+<technology name="_">
+<attribute name="CATEGORY" value="Capacitor" constant="no"/>
+<attribute name="MANUFACTURER" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OPERATING_TEMP" value="" constant="no"/>
+<attribute name="PART_STATUS" value="" constant="no"/>
+<attribute name="ROHS_COMPLIANT" value="" constant="no"/>
+<attribute name="SERIES" value="" constant="no"/>
+<attribute name="SUB-CATEGORY" value="" constant="no"/>
+<attribute name="THERMALLOSS" value="" constant="no"/>
+<attribute name="TYPE" value="" constant="no"/>
+<attribute name="VALUE" value="" constant="no"/>
+<attribute name="VOLTAGE_RATING" value="" constant="no"/>
+</technology>
+</technologies>
+</device>
+<device name="TANTALUM-2920(7443-METRIC)" package="CAPMP7443X430N">
+<connects>
+<connect gate="G$1" pin="+" pad="1"/>
+<connect gate="G$1" pin="-" pad="2"/>
+</connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16290866/1"/>
+</package3dinstances>
+<technologies>
+<technology name="_">
+<attribute name="CATEGORY" value="Capacitor" constant="no"/>
+<attribute name="MANUFACTURER" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OPERATING_TEMP" value="" constant="no"/>
+<attribute name="PART_STATUS" value="" constant="no"/>
+<attribute name="ROHS_COMPLIANT" value="" constant="no"/>
+<attribute name="SERIES" value="" constant="no"/>
+<attribute name="SUB-CATEGORY" value="" constant="no"/>
+<attribute name="THERMALLOSS" value="" constant="no"/>
+<attribute name="TYPE" value="" constant="no"/>
+<attribute name="VALUE" value="" constant="no"/>
+<attribute name="VOLTAGE_RATING" value="" constant="no"/>
+</technology>
+</technologies>
+</device>
+<device name="AXIAL-34.1MM-PITCH" package="CAPPAD3410W80L3025D1825B">
+<connects>
+<connect gate="G$1" pin="+" pad="1"/>
+<connect gate="G$1" pin="-" pad="2"/>
+</connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16290868/1"/>
+</package3dinstances>
+<technologies>
+<technology name="_">
+<attribute name="CATEGORY" value="Capacitor" constant="no"/>
+<attribute name="MANUFACTURER" value="" constant="no"/>
+<attribute name="MPN" value="" constant="no"/>
+<attribute name="OPERATING_TEMP" value="" constant="no"/>
+<attribute name="PART_STATUS" value="" constant="no"/>
+<attribute name="ROHS_COMPLIANT" value="" constant="no"/>
+<attribute name="SERIES" value="" constant="no"/>
+<attribute name="SUB-CATEGORY" value="" constant="no"/>
+<attribute name="THERMALLOSS" value="" constant="no"/>
+<attribute name="TYPE" value="" constant="no"/>
+<attribute name="VALUE" value="" constant="no"/>
+<attribute name="VOLTAGE_RATING" value="" constant="no"/>
+</technology>
+</technologies>
+</device>
+</devices>
+</deviceset>
+</devicesets>
+</library>
 </libraries>
 <attributes>
 </attributes>
@@ -3644,9 +4957,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <classes>
 <class number="0" name="default" width="0" drill="0">
 </class>
-<class number="1" name="Vcc" width="0.0762" drill="0">
-</class>
-<class number="2" name="GND" width="0.0762" drill="0">
+<class number="1" name="Vcc" width="0.4064" drill="0">
 </class>
 </classes>
 <parts>
@@ -3655,6 +4966,10 @@ In this library the device names are the same as the pin names of the symbols, t
 <part name="IC3" library="74xx-us" library_urn="urn:adsk.eagle:library:88" deviceset="74*02" device="D" package3d_urn="urn:adsk.eagle:package:2917/1" technology="LS"/>
 <part name="SUPPLY1" library="supply2" library_urn="urn:adsk.eagle:library:372" deviceset="GND" device=""/>
 <part name="P+1" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VCC" device=""/>
+<part name="C1" library="Capacitor" library_urn="urn:adsk.eagle:library:16290819" deviceset="C" device="CHIP-0805(2012-METRIC)" package3d_urn="urn:adsk.eagle:package:16290897/2" technology="_" value="0.1uF"/>
+<part name="C2" library="Capacitor" library_urn="urn:adsk.eagle:library:16290819" deviceset="C-POL" device="ECAP-8.5MM" package3d_urn="urn:adsk.eagle:package:16290889/1" technology="_"/>
+<part name="SUPPLY2" library="supply2" library_urn="urn:adsk.eagle:library:372" deviceset="GND" device=""/>
+<part name="P+2" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VCC" device=""/>
 </parts>
 <sheets>
 <sheet>
@@ -3667,13 +4982,13 @@ In this library the device names are the same as the pin names of the symbols, t
 <instance part="IC2" gate="G$1" x="30.48" y="33.02" smashed="yes">
 <attribute name="NAME" x="21.59" y="61.595" size="1.27" layer="95"/>
 </instance>
-<instance part="IC3" gate="A" x="198.12" y="33.02" smashed="yes">
-<attribute name="NAME" x="190.5" y="38.735" size="1.778" layer="95"/>
-<attribute name="VALUE" x="190.5" y="25.4" size="1.778" layer="96"/>
+<instance part="IC3" gate="A" x="198.12" y="38.1" smashed="yes">
+<attribute name="NAME" x="190.5" y="43.815" size="1.778" layer="95"/>
+<attribute name="VALUE" x="190.5" y="30.48" size="1.778" layer="96"/>
 </instance>
-<instance part="IC3" gate="B" x="220.98" y="50.8" smashed="yes" rot="R90">
-<attribute name="NAME" x="215.265" y="43.18" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="228.6" y="43.18" size="1.778" layer="96" rot="R90"/>
+<instance part="IC3" gate="B" x="220.98" y="55.88" smashed="yes" rot="R90">
+<attribute name="NAME" x="215.265" y="48.26" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="228.6" y="48.26" size="1.778" layer="96" rot="R90"/>
 </instance>
 <instance part="IC3" gate="C" x="198.12" y="106.68" smashed="yes">
 <attribute name="NAME" x="190.5" y="112.395" size="1.778" layer="95"/>
@@ -3688,6 +5003,20 @@ In this library the device names are the same as the pin names of the symbols, t
 </instance>
 <instance part="P+1" gate="VCC" x="60.96" y="-5.08" smashed="yes">
 <attribute name="VALUE" x="58.42" y="-7.62" size="1.778" layer="96" rot="R90"/>
+</instance>
+<instance part="C1" gate="G$1" x="203.2" y="-20.32" smashed="yes">
+<attribute name="NAME" x="205.74" y="-17.78" size="1.778" layer="95"/>
+<attribute name="VALUE" x="205.74" y="-20.32" size="1.778" layer="96"/>
+</instance>
+<instance part="C2" gate="G$1" x="190.5" y="-20.32" smashed="yes">
+<attribute name="NAME" x="191.643" y="-19.8374" size="1.778" layer="95"/>
+<attribute name="VALUE" x="191.643" y="-24.9174" size="1.778" layer="96"/>
+</instance>
+<instance part="SUPPLY2" gate="GND" x="190.5" y="-33.02" smashed="yes">
+<attribute name="VALUE" x="188.595" y="-36.195" size="1.778" layer="96"/>
+</instance>
+<instance part="P+2" gate="VCC" x="190.5" y="-7.62" smashed="yes">
+<attribute name="VALUE" x="187.96" y="-10.16" size="1.778" layer="96" rot="R90"/>
 </instance>
 </instances>
 <busses>
@@ -4262,7 +5591,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <wire x1="152.4" y1="68.58" x2="165.1" y2="68.58" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$1" class="0">
+<net name="!RAMEN" class="0">
 <segment>
 <pinref part="IC2" gate="G$1" pin="!RAMEN"/>
 <wire x1="15.24" y1="99.06" x2="15.24" y2="106.68" width="0.1524" layer="91"/>
@@ -4271,7 +5600,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <wire x1="111.76" y1="106.68" x2="111.76" y2="99.06" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$2" class="0">
+<net name="!REGEN" class="0">
 <segment>
 <pinref part="IC2" gate="G$1" pin="!REGEN"/>
 <wire x1="17.78" y1="99.06" x2="17.78" y2="109.22" width="0.1524" layer="91"/>
@@ -4280,7 +5609,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <wire x1="114.3" y1="109.22" x2="114.3" y2="99.06" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$3" class="0">
+<net name="!BLISS" class="0">
 <segment>
 <pinref part="IC2" gate="G$1" pin="!BLISS"/>
 <wire x1="20.32" y1="99.06" x2="20.32" y2="111.76" width="0.1524" layer="91"/>
@@ -4289,7 +5618,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <wire x1="119.38" y1="111.76" x2="119.38" y2="99.06" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$4" class="0">
+<net name="!BLIT" class="0">
 <segment>
 <pinref part="IC2" gate="G$1" pin="!BLIT"/>
 <wire x1="22.86" y1="99.06" x2="22.86" y2="114.3" width="0.1524" layer="91"/>
@@ -4298,7 +5627,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <wire x1="121.92" y1="114.3" x2="121.92" y2="99.06" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$5" class="0">
+<net name="!CDAC" class="0">
 <segment>
 <pinref part="IC1" gate="G$1" pin="!CDAC"/>
 <wire x1="134.62" y1="99.06" x2="134.62" y2="116.84" width="0.1524" layer="91"/>
@@ -4307,7 +5636,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <wire x1="30.48" y1="116.84" x2="30.48" y2="99.06" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$6" class="0">
+<net name="CCK" class="0">
 <segment>
 <pinref part="IC2" gate="G$1" pin="CCK"/>
 <wire x1="33.02" y1="99.06" x2="33.02" y2="119.38" width="0.1524" layer="91"/>
@@ -4316,7 +5645,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <wire x1="129.54" y1="119.38" x2="129.54" y2="99.06" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$7" class="0">
+<net name="CCKQ" class="0">
 <segment>
 <pinref part="IC2" gate="G$1" pin="CCKQ"/>
 <wire x1="35.56" y1="99.06" x2="35.56" y2="121.92" width="0.1524" layer="91"/>
@@ -4325,7 +5654,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <wire x1="132.08" y1="121.92" x2="132.08" y2="99.06" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$8" class="0">
+<net name="!LDS" class="0">
 <segment>
 <pinref part="IC2" gate="G$1" pin="!LDS"/>
 <wire x1="0" y1="-5.08" x2="-12.7" y2="-5.08" width="0.1524" layer="91"/>
@@ -4336,7 +5665,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <wire x1="81.28" y1="-7.62" x2="96.52" y2="-7.62" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$9" class="0">
+<net name="!UDS" class="0">
 <segment>
 <pinref part="IC2" gate="G$1" pin="!UDS"/>
 <wire x1="0" y1="-7.62" x2="-15.24" y2="-7.62" width="0.1524" layer="91"/>
@@ -4347,7 +5676,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <wire x1="83.82" y1="-10.16" x2="96.52" y2="-10.16" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$10" class="0">
+<net name="!AS" class="0">
 <segment>
 <pinref part="IC1" gate="G$1" pin="!AS"/>
 <wire x1="96.52" y1="-12.7" x2="88.9" y2="-12.7" width="0.1524" layer="91"/>
@@ -4358,7 +5687,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <wire x1="-7.62" y1="-12.7" x2="0" y2="-12.7" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$11" class="0">
+<net name="R!W" class="0">
 <segment>
 <pinref part="IC1" gate="G$1" pin="R!W"/>
 <wire x1="96.52" y1="-15.24" x2="91.44" y2="-15.24" width="0.1524" layer="91"/>
@@ -4369,7 +5698,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <wire x1="-5.08" y1="-10.16" x2="0" y2="-10.16" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$12" class="0">
+<net name="!RESET" class="0">
 <segment>
 <pinref part="IC2" gate="G$1" pin="!RESET"/>
 <wire x1="0" y1="-25.4" x2="-2.54" y2="-25.4" width="0.1524" layer="91"/>
@@ -4380,7 +5709,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <wire x1="96.52" y1="-20.32" x2="93.98" y2="-20.32" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$13" class="0">
+<net name="28MHZ" class="0">
 <segment>
 <pinref part="IC2" gate="G$1" pin="28MHZ"/>
 <wire x1="0" y1="-38.1" x2="-17.78" y2="-38.1" width="0.1524" layer="91"/>
@@ -4390,7 +5719,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <wire x1="96.52" y1="-66.04" x2="96.52" y2="-25.4" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$14" class="0">
+<net name="!INTRQ" class="0">
 <segment>
 <pinref part="IC2" gate="G$1" pin="!INTR"/>
 <wire x1="0" y1="-33.02" x2="-20.32" y2="-33.02" width="0.1524" layer="91"/>
@@ -4400,7 +5729,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <wire x1="152.4" y1="-68.58" x2="152.4" y2="-25.4" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$15" class="0">
+<net name="DMAL" class="0">
 <segment>
 <pinref part="IC2" gate="G$1" pin="DMAL"/>
 <wire x1="0" y1="-30.48" x2="-22.86" y2="-30.48" width="0.1524" layer="91"/>
@@ -4411,7 +5740,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <wire x1="154.94" y1="-22.86" x2="152.4" y2="-22.86" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$16" class="0">
+<net name="7MHZ" class="0">
 <segment>
 <pinref part="IC2" gate="G$1" pin="7MHZ"/>
 <wire x1="55.88" y1="17.78" x2="78.74" y2="17.78" width="0.1524" layer="91"/>
@@ -4422,7 +5751,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <wire x1="157.48" y1="-5.08" x2="152.4" y2="-5.08" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$17" class="0">
+<net name="!LPEN" class="0">
 <segment>
 <pinref part="IC2" gate="G$1" pin="!LPEN"/>
 <wire x1="55.88" y1="12.7" x2="73.66" y2="12.7" width="0.1524" layer="91"/>
@@ -4433,7 +5762,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <wire x1="160.02" y1="-10.16" x2="152.4" y2="-10.16" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$18" class="0">
+<net name="!HSYNC" class="0">
 <segment>
 <pinref part="IC2" gate="G$1" pin="!HSYNC"/>
 <wire x1="55.88" y1="10.16" x2="71.12" y2="10.16" width="0.1524" layer="91"/>
@@ -4444,7 +5773,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <wire x1="162.56" y1="-12.7" x2="152.4" y2="-12.7" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$19" class="0">
+<net name="!VSYNC" class="0">
 <segment>
 <pinref part="IC2" gate="G$1" pin="!VSYNC"/>
 <wire x1="55.88" y1="7.62" x2="68.58" y2="7.62" width="0.1524" layer="91"/>
@@ -4455,7 +5784,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <wire x1="167.64" y1="-15.24" x2="152.4" y2="-15.24" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$20" class="0">
+<net name="!CSYNC" class="0">
 <segment>
 <pinref part="IC2" gate="G$1" pin="!CSYNC"/>
 <wire x1="55.88" y1="5.08" x2="66.04" y2="5.08" width="0.1524" layer="91"/>
@@ -4466,7 +5795,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <wire x1="170.18" y1="-17.78" x2="152.4" y2="-17.78" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$21" class="0">
+<net name="!CASL" class="0">
 <segment>
 <pinref part="IC1" gate="G$1" pin="!CASL"/>
 <wire x1="152.4" y1="40.64" x2="167.64" y2="40.64" width="0.1524" layer="91"/>
@@ -4498,7 +5827,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <wire x1="60.96" y1="78.74" x2="55.88" y2="78.74" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="GND" class="2">
+<net name="GND" class="0">
 <segment>
 <pinref part="IC2" gate="G$1" pin="VSS1"/>
 <pinref part="SUPPLY1" gate="GND" pin="GND"/>
@@ -4510,6 +5839,16 @@ In this library the device names are the same as the pin names of the symbols, t
 <wire x1="55.88" y1="-33.02" x2="55.88" y2="-38.1" width="0.1524" layer="91"/>
 <junction x="55.88" y="-33.02"/>
 </segment>
+<segment>
+<pinref part="C2" gate="G$1" pin="-"/>
+<pinref part="SUPPLY2" gate="GND" pin="GND"/>
+<wire x1="190.5" y1="-25.4" x2="190.5" y2="-27.94" width="0.1524" layer="91"/>
+<pinref part="C1" gate="G$1" pin="2"/>
+<wire x1="190.5" y1="-27.94" x2="190.5" y2="-30.48" width="0.1524" layer="91"/>
+<wire x1="203.2" y1="-25.4" x2="203.2" y2="-27.94" width="0.1524" layer="91"/>
+<wire x1="203.2" y1="-27.94" x2="190.5" y2="-27.94" width="0.1524" layer="91"/>
+<junction x="190.5" y="-27.94"/>
+</segment>
 </net>
 <net name="VCC" class="1">
 <segment>
@@ -4518,11 +5857,21 @@ In this library the device names are the same as the pin names of the symbols, t
 <wire x1="55.88" y1="-12.7" x2="60.96" y2="-12.7" width="0.1524" layer="91"/>
 <wire x1="60.96" y1="-12.7" x2="60.96" y2="-7.62" width="0.1524" layer="91"/>
 </segment>
+<segment>
+<pinref part="P+2" gate="VCC" pin="VCC"/>
+<pinref part="C2" gate="G$1" pin="+"/>
+<wire x1="190.5" y1="-10.16" x2="190.5" y2="-15.24" width="0.1524" layer="91"/>
+<pinref part="C1" gate="G$1" pin="1"/>
+<wire x1="190.5" y1="-15.24" x2="190.5" y2="-17.78" width="0.1524" layer="91"/>
+<wire x1="203.2" y1="-17.78" x2="203.2" y2="-15.24" width="0.1524" layer="91"/>
+<wire x1="203.2" y1="-15.24" x2="190.5" y2="-15.24" width="0.1524" layer="91"/>
+<junction x="190.5" y="-15.24"/>
+</segment>
 </net>
 <net name="!RAS0" class="0">
 <segment>
 <pinref part="IC1" gate="G$1" pin="!RAS0"/>
-<pinref part="IC3" gate="A" pin="I0"/>
+<pinref part="IC3" gate="A" pin="I1"/>
 <wire x1="152.4" y1="35.56" x2="185.42" y2="35.56" width="0.1524" layer="91"/>
 </segment>
 </net>
@@ -4530,19 +5879,19 @@ In this library the device names are the same as the pin names of the symbols, t
 <segment>
 <pinref part="IC1" gate="G$1" pin="!RAS1"/>
 <wire x1="152.4" y1="33.02" x2="185.42" y2="33.02" width="0.1524" layer="91"/>
-<pinref part="IC3" gate="A" pin="I1"/>
-<wire x1="185.42" y1="33.02" x2="185.42" y2="30.48" width="0.1524" layer="91"/>
+<pinref part="IC3" gate="A" pin="I0"/>
+<wire x1="185.42" y1="33.02" x2="185.42" y2="40.64" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$26" class="0">
+<net name="RAS" class="0">
 <segment>
 <pinref part="IC3" gate="B" pin="I0"/>
 <pinref part="IC3" gate="B" pin="I1"/>
 <pinref part="IC3" gate="A" pin="O"/>
-<wire x1="218.44" y1="38.1" x2="223.52" y2="38.1" width="0.1524" layer="91"/>
-<wire x1="210.82" y1="33.02" x2="218.44" y2="33.02" width="0.1524" layer="91"/>
-<wire x1="218.44" y1="33.02" x2="218.44" y2="38.1" width="0.1524" layer="91"/>
-<junction x="218.44" y="38.1"/>
+<wire x1="218.44" y1="43.18" x2="223.52" y2="43.18" width="0.1524" layer="91"/>
+<wire x1="210.82" y1="38.1" x2="218.44" y2="38.1" width="0.1524" layer="91"/>
+<wire x1="218.44" y1="38.1" x2="218.44" y2="43.18" width="0.1524" layer="91"/>
+<junction x="218.44" y="43.18"/>
 </segment>
 </net>
 <net name="!RAS" class="0">
@@ -4552,7 +5901,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <wire x1="63.5" y1="83.82" x2="63.5" y2="132.08" width="0.1524" layer="91"/>
 <wire x1="63.5" y1="132.08" x2="220.98" y2="132.08" width="0.1524" layer="91"/>
 <pinref part="IC3" gate="B" pin="O"/>
-<wire x1="220.98" y1="132.08" x2="220.98" y2="63.5" width="0.1524" layer="91"/>
+<wire x1="220.98" y1="132.08" x2="220.98" y2="68.58" width="0.1524" layer="91"/>
 </segment>
 </net>
 </nets>
@@ -4640,6 +5989,12 @@ will not be understood (or retained) with this version.
 Since Version 8.3, EAGLE supports the association of 3D packages
 with devices in libraries, schematics, and board files. Those 3D
 packages will not be understood (or retained) with this version.
+</note>
+<note version="8.4" severity="warning">
+Since Version 8.4, EAGLE supports properties for SPICE simulation. 
+Probes in schematics and SPICE mapping objects found in parts and library devices
+will not be understood with this version. Update EAGLE to the latest version
+for full support of SPICE simulation. 
 </note>
 </compatibility>
 </eagle>
