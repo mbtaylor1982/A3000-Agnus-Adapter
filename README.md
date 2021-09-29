@@ -3,6 +3,8 @@
 ## Intoduction
 With the 8372B Agnus being a rare and expensive beast this adator was designed to allow the use of the relativly common 390544 (8375) 2MB Agnus from the A500+ and A600 in the A3000. 
 
+![A3000AgnusAdaptor](A3000AgnusAdaptor.png)
+
 
 ## PAL or NTSC
 Unlike the 8372B which can be changed between NTSC and PAL with a jumper, the 8375 (390544) can not. 
