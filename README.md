@@ -9,7 +9,7 @@ With the 8372B Agnus being a rare and expensive beast this adator was designed t
 ## PAL or NTSC
 Unlike the 8372B which can be changed between NTSC and PAL with a jumper, the 8375 (390544) can not. 
 
-When selecting n Agnus chip to use with this adaptorthere are two choices:
+When selecting an Agnus chip to use with this adaptorthere are two choices:
 
 1. 390544-01 PAL 2MB Agnus used in Eurpean A500+ and A600
 2. 390544-02 NTSC 2MB Agnus Used in North American A500+ and A600
