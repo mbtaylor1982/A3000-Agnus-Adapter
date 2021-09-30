@@ -9,7 +9,7 @@ With the 8372B Agnus being a rare and expensive beast this adator was designed t
 ## PAL or NTSC
 Unlike the 8372B which can be changed between NTSC and PAL with a jumper, the 8375 (390544) can not. 
 
-When selecting An agnus ship to use with this adaptor please there are two choices
+When selecting n Agnus chip to use with this adaptorthere are two choices:
 
 1. 390544-01 PAL 2MB Agnus used in Eurpean A500+ and A600
 2. 390544-02 NTSC 2MB Agnus Used in North American A500+ and A600
@@ -25,7 +25,7 @@ When selecting An agnus ship to use with this adaptor please there are two choic
 
 
 ## Thanks
-Thankyou to all the prople who have helped with this project.
+Thankyou to all the people who have helped with this project.
 
 - Tristan Zondag for testing the adaptor (1st person to get it fully working)
 - [Matt Harlum Liv2](https://github.com/LIV2) RAS signal combining inspired by the [A500-2Meg-Chip-ram](https://github.com/LIV2/A500-2Meg-Chip-ram) project.
