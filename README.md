@@ -4,6 +4,9 @@
 With the 8372B Agnus being a rare and expensive beast this adator was designed to allow the use of the relativly common 390544 (8375) 2MB Agnus from the A500+ and A600 in the A3000. 
 
 ![A3000AgnusAdaptor](A3000AgnusAdaptor.png)
+![A3000AgnusAdaptorBack](A3000AgnusAdaptorBack.png)
+![Prototype](Prototype.jpg)
+![Working](Working.jpg)
 
 
 ## PAL or NTSC
