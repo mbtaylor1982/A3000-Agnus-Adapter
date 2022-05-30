@@ -18,6 +18,7 @@ When selecting an Agnus chip to use with this adaptor there are two choices that
 2. 390544-02 NTSC 2MB Agnus Used in North American A500+ and A600
 
 Other variants of the Agnus chip exist and provision has been made for then Vbb connection on pin 40 (C14M). 
+
 If using one of the chips marked Vbb, C2 should be populated with a 0.1uF ceramic capacitor.
 
 **Please note I have not tested any of the below chip revisions so the following info is provided as-is**
