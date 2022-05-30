@@ -12,12 +12,29 @@ With the 8372B Agnus being a rare and expensive beast this adator was designed t
 ## PAL or NTSC
 Unlike the 8372B which can be changed between NTSC and PAL with a jumper, the 8375 (390544) can not. 
 
-When selecting an Agnus chip to use with this adaptor there are two choices:
+When selecting an Agnus chip to use with this adaptor there are two choices that have been tested:
 
 1. 390544-01 PAL 2MB Agnus used in Eurpean A500+ and A600
 2. 390544-02 NTSC 2MB Agnus Used in North American A500+ and A600
 
-**Please note there may be variants of these chips with a VBB marking and these require C2 to be fitted, othermwise this can be left unpopulated.**
+Other variants of the Agnus chip exist and provision has been made for then Vbb connection on pin 40 (C14M). 
+If using one of the chips marked Vbb, C2 should be populated with a 0.1uF ceramic capacitor.
+
+**Please note I have not tested any of the below chip revisions so the following info is provided as-is**
+
+>318069-10
+>Several pins have been changed to support the A600. This device supports PAL only - the PAL/_NTSC pad is internally pulled up to Vdd (+5). This part is the new rev of >what was previously called 390554-01, except that Vbb replaces the C14M pin.
+>
+>318069-11
+>This pinout is identical to the -10. However, this device supports NTSC only - the PAL/_NTSC pad is internally connected to GND. This part is the new rev of what was >previously called 390554-02, except that Vbb replaces the C14M pin.
+>
+>318069-12
+>Several pins have been changed to support the A600. This device supports PAL only - the PAL/_NTSC pad is internally pulled up to Vdd (+5). This part is the new rev of >what was previously called 390554-01.
+>
+>318069-13
+>Several pins have been changed to support the A600. This device supports NTSC only - the PAL/_NTSC pad is internally connected to ground. This part is the new rev of >what was previously called 390554-02.
+
+Source of above info > https://www.amigawiki.org/lib/exe/fetch.php?media=de:parts:agnus-history.pdf
 
 ## Components
 
