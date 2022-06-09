@@ -41,8 +41,9 @@ Source of above info > https://www.amigawiki.org/lib/exe/fetch.php?media=de:part
 
 | Component                                   | Location  | Qty | Link |
 | ------------------------------------------- | --------- | --- | ---- |
-| Ceramic Capacitor, 0.1uF, 0805              | C1, C2    |  2  |  [Mouser](https://www.mouser.com/ProductDetail/710-885012207098)    |
+| Ceramic Capacitor, 0.1uF, 0805              | C1, C2    | 2   |  [Mouser](https://www.mouser.com/ProductDetail/710-885012207098)    |
 | 74AHC1G08 Single 2-Input AND Gate, SOT-23-5 | IC4       | 1   |  [Mouser](https://www.mouser.com/ProductDetail/595-SN74AHC1G08DBVR)    |
+| PLCC 84 THT Socket                          |           | 1   | [Mouser](https://www.mouser.com/ProductDetail/3M-Electronic-Solutions-Division/8484-11B1-RK-TP?qs=WZRMhwwaLl9eNFJXLRGlFw==) |
 
 
 ## Thanks
